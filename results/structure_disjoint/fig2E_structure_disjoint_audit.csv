@@ -1,0 +1,13 @@
+representation,metric,mean_reported,mean_recomputed,mean_abs_error,std_reported,std_recomputed_ddof0,n_folds,unique_per_fold_values,status,source_json
+RDKit+QM,train_roc_auc_micro,0.9714669539625425,0.9714669539625425,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\add_summary.json
+RDKit+QM,train_roc_auc_macro,0.9719571905783179,0.9719571905783179,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\add_summary.json
+RDKit+QM,test_roc_auc_micro,0.8079683225372591,0.7879683225372591,0.020000000000000018,0.0,0.0,5,1,MEAN_MISMATCH,D:\Desktop\projiect\fig2E\add_summary.json
+RDKit+QM,test_roc_auc_macro,0.7379434770377121,0.7379434770377121,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\add_summary.json
+QM,train_roc_auc_micro,0.9667899202488026,0.9667899202488026,0.0,1.1102230246251565e-16,1.1102230246251565e-16,5,1,OK,D:\Desktop\projiect\fig2E\QM_summary.json
+QM,train_roc_auc_macro,0.968943025827772,0.968943025827772,0.0,1.1102230246251565e-16,1.1102230246251565e-16,5,1,OK,D:\Desktop\projiect\fig2E\QM_summary.json
+QM,test_roc_auc_micro,0.7916905601588617,0.7716905601588618,0.019999999999999907,0.0,0.0,5,1,MEAN_MISMATCH,D:\Desktop\projiect\fig2E\QM_summary.json
+QM,test_roc_auc_macro,0.7054178786816857,0.7054178786816857,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\QM_summary.json
+RDKit,train_roc_auc_micro,0.9411856058892216,0.9411856058892216,0.0,1.1102230246251565e-16,1.1102230246251565e-16,5,1,OK,D:\Desktop\projiect\fig2E\RDKit_summary.json
+RDKit,train_roc_auc_macro,0.928735690835242,0.928735690835242,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\RDKit_summary.json
+RDKit,test_roc_auc_micro,0.7755779034960932,0.7755779034960932,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\RDKit_summary.json
+RDKit,test_roc_auc_macro,0.6883660084102265,0.6883660084102265,0.0,0.0,0.0,5,1,OK,D:\Desktop\projiect\fig2E\RDKit_summary.json

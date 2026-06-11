@@ -1,0 +1,7 @@
+key,value
+source_rows,4495
+raw_snapshot_label_rows,113
+release_label_rows,112
+manuscript_target_rows,4495
+manuscript_target_labels,112
+release_rule,exclude odorless from raw 113-label snapshot

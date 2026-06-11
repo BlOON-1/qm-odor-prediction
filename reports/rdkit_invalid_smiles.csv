@@ -1,0 +1,2 @@
+﻿molecule_id,cas,chemical_name,smiles_input,failure_reason
+MOL_003034,5978-70-1,(R)-(-)-2-octanol,SJWFXCIHNDVPSH-MRVPVSSYSA-N,invalid_or_missing_smiles

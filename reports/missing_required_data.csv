@@ -1,0 +1,31 @@
+﻿status,path,reason
+REQUIRED_LATER,data/processed/rdkit_descriptors.csv,Descriptor matrix not generated in current task.
+REQUIRED_LATER,data/processed/qm_descriptors.csv,QM descriptor matrix not generated in current task.
+REQUIRED_LATER,data/processed/rdkit_qm_descriptors.csv,Combined descriptor matrix not generated in current task.
+REQUIRED_LATER,data/processed/ecfp4_fingerprints.npz,Fingerprint archive not generated in current task.
+REQUIRED_LATER,data/processed/feature_scaler_parameters.csv,Feature scaling outputs depend on model-prep workflows.
+REQUIRED_LATER,qm_calculations/parsed_outputs/qm_descriptor_raw_table.csv,QM parsing outputs are not present in local inputs.
+REQUIRED_LATER,qm_calculations/parsed_outputs/adch_atomic_charges.csv,QM atomic charge outputs are not present in local inputs.
+REQUIRED_LATER,qm_calculations/parsed_outputs/failed_qm_jobs.csv,QM job logs are not present in local inputs.
+REQUIRED_LATER,data/splits/iterative_stratified_splits/seed_42_train.csv,Benchmark split files have not been generated yet.
+REQUIRED_LATER,data/splits/iterative_stratified_splits/seed_42_test.csv,Benchmark split files have not been generated yet.
+REQUIRED_LATER,data/splits/iterative_stratified_splits/seeds_43_46_placeholder.csv,Seeds 43-46 split files have not been generated yet.
+REQUIRED_LATER,data/splits/structure_disjoint_splits/tanimoto_neighbors_threshold_0.8.csv,Structure-disjoint split support files have not been generated yet.
+REQUIRED_LATER,data/splits/structure_disjoint_splits/structure_disjoint_train.csv,Structure-disjoint split files have not been generated yet.
+REQUIRED_LATER,data/splits/structure_disjoint_splits/structure_disjoint_test.csv,Structure-disjoint split files have not been generated yet.
+REQUIRED_LATER,results/benchmark_metrics/macro_auc_by_model_representation.csv,Model training results are out of scope for current task.
+REQUIRED_LATER,results/benchmark_metrics/micro_auc_by_model_representation.csv,Model training results are out of scope for current task.
+REQUIRED_LATER,results/benchmark_metrics/labelwise_delta_auc.csv,Model training results are out of scope for current task.
+REQUIRED_LATER,results/structure_disjoint/structure_disjoint_metrics.csv,Structure-disjoint evaluation results are not available yet.
+REQUIRED_LATER,results/external_validation/graph_pairwise_similarity_predictions.csv,External prediction results are not available yet.
+REQUIRED_LATER,results/external_validation/concordance_coefficients.csv,External concordance metrics are not available yet.
+REQUIRED_LATER,results/external_validation/embedding_knn_auc.csv,Embedding evaluation results are not available yet.
+REQUIRED_LATER,results/shap/shap_values_rdkit_qm.npz,SHAP outputs are not available yet.
+REQUIRED_LATER,results/shap/shap_feature_ranking.csv,SHAP outputs are not available yet.
+REQUIRED_LATER,results/receptor_consistency/qm_rdkit_distance_by_receptor_group.csv,Receptor consistency results are not available yet.
+REQUIRED_LATER,results/receptor_consistency/receptor_consistency_statistics.csv,Receptor consistency results are not available yet.
+REQUIRED_LATER,data/receptor_annotations/m2or_matched_molecules.csv,Receptor matching annotations are not available yet.
+REQUIRED_LATER,data/receptor_annotations/receptor_response_vectors.csv,Receptor response annotations are not available yet.
+REQUIRED_LATER,data/receptor_annotations/receptor_pairwise_concordance.csv,Receptor concordance annotations are not available yet.
+REQUIRED_LATER,data/receptor_annotations/receptor_concordant_divergent_pairs.csv,Receptor grouping annotations are not available yet.
+REQUIRED_LATER,data/receptor_annotations/receptor_matching_exclusion_log.csv,Receptor exclusion log is not available yet.

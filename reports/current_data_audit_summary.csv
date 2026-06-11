@@ -1,0 +1,17 @@
+﻿section,metric,value,expected,matches_expected,notes
+public_dataset,raw_row_count,4495,4403,False,Raw public input rows.
+public_dataset,valid_cas_count,4495,,,Rows passing CAS format regex.
+public_dataset,valid_smiles_count,4494,,,RDKit parseable count if RDKit is available; otherwise non-empty smiles count.
+public_dataset,unique_molecule_count,4495,4403,False,Unique molecules after exact-duplicate collapse.
+public_dataset,observed_odor_label_count,113,112,False,Observed normalized odor labels.
+panel_data,panel_csv_files,87,90,False,Observed panel CSV files.
+panel_data,files_with_13_rows,87,87,True,Panel files matching expected assessor count.
+panel_data,observed_sensory_label_count,43,43,True,Observed panel label vocabulary size.
+panel_data,expected_assessor_count,13,13,True,Manuscript expected assessor count.
+pair_data,pair_row_count,60,60,True,Observed pair rows.
+pair_data,pair_unique_cas_count,52,90,False,Unique CAS count across pairs.
+pair_data,pair_molecules_found_in_panel_csvs,52,52,True,Unique pair CAS found in panel CSVs.
+pair_data,pair_molecules_found_in_public_dataset,50,52,False,Unique pair CAS found in public benchmark table.
+pair_data,duplicate_pair_count,0,0,True,Duplicate pair_key count.
+generation,generated_files_count,22,,,Files generated in this run.
+generation,missing_required_later_count,30,,,Declared downstream missing items.

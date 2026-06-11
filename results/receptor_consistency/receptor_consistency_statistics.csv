@@ -1,0 +1,14 @@
+﻿metric,value
+n_raw_rows,3357
+n_pairs_raw,60
+n_pairs_with_any_or_record,55
+n_pairs_no_matched_or_data,5
+n_pairs_with_jointly_tested_receptors,32
+n_pairs_with_at_least_two_jointly_tested_receptors,26
+n_concordant_pairs,7
+n_divergent_pairs,5
+n_indeterminate_pairs,14
+n_excluded_pairs,48
+n_unique_or_genes,849
+n_unique_human_or_genes,848
+n_conflicting_duplicate_records,5

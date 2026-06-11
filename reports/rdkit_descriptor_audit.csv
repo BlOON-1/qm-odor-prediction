@@ -1,0 +1,2 @@
+﻿input_file,rdkit_version,n_molecules_total,n_molecules_valid,n_molecules_invalid,n_descriptor_columns_before_all_missing_removal,n_descriptor_columns_after_all_missing_removal,n_all_missing_descriptor_columns_removed,total_inf_values_replaced_with_nan
+data\processed\benchmark_molecules_observed.csv,2025.09.1,4495,4494,1,217,217,0,0
