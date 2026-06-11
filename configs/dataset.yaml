@@ -1,0 +1,58 @@
+project:
+  name: qm-odor-prediction
+  manuscript_title: Quantum-mechanical descriptors improve odor prediction for structurally
+    similar molecules
+  repository: https://github.com/BlOON-1/qm-odor-prediction
+paths:
+  processed_dir: data/processed
+  interim_dir: data/interim
+  raw_manifest_dir: data/raw_manifest
+  splits_dir: data/splits
+  external_panel_dir: data/external_panel
+  receptor_annotations_dir: data/receptor_annotations
+  source_data_dir: data/source_data
+  results_dir: results
+  figures_dir: figures
+files:
+  benchmark_molecules: data/processed/benchmark_molecules_4495.csv
+  odor_label_vocabulary: data/processed/odor_label_vocabulary_112.csv
+  odor_label_matrix: data/processed/odor_label_matrix_4495x112.csv
+  label_harmonization_table: data/interim/label_harmonization_table.csv
+  rdkit_descriptors: data/processed/rdkit_descriptors.csv
+  rdkit_descriptors_raw: data/processed/rdkit_descriptors_raw.csv
+  rdkit_descriptors_unstandardized_qc: data/processed/rdkit_descriptors_unstandardized_qc.csv
+  qm_descriptors: data/processed/qm_descriptors.csv
+  rdkit_qm_descriptors: data/processed/rdkit_qm_descriptors.csv
+  ecfp4_fingerprints: data/processed/ecfp4_fingerprints.npz
+  ecfp4_fingerprint_index: data/processed/ecfp4_fingerprint_index.csv
+  ecfp4_fingerprint_metadata: data/processed/ecfp4_fingerprint_metadata.json
+  feature_scaler_parameters: data/processed/feature_scaler_parameters.csv
+  external_molecules: data/external_panel/external_molecules_87.csv
+  structural_neighbor_pairs: data/external_panel/structural_neighbor_pairs_60.csv
+  panel_label_vocabulary: data/external_panel/panel_label_vocabulary_43.csv
+  aggregated_panel_ratings: data/external_panel/aggregated_panel_ratings.csv
+  panel_derived_topk_labels: data/external_panel/panel_derived_topk_labels.csv
+  pairwise_panel_jaccard_similarity: data/external_panel/pairwise_panel_jaccard_similarity.csv
+  receptor_response_vectors: data/receptor_annotations/receptor_response_vectors.csv
+  receptor_pairwise_concordance: data/receptor_annotations/receptor_pairwise_concordance.csv
+  receptor_concordant_divergent_pairs: data/receptor_annotations/receptor_concordant_divergent_pairs.csv
+  m2or_pair_or_raw: data/receptor_annotations/m2or_pair_or_raw.csv
+  m2or_matched_molecules: data/receptor_annotations/m2or_matched_molecules.csv
+  receptor_response_long: data/receptor_annotations/receptor_response_long.csv
+  receptor_matching_exclusion_log: data/receptor_annotations/receptor_matching_exclusion_log.csv
+  structure_disjoint_train: data/splits/structure_disjoint_splits/structure_disjoint_train.csv
+  structure_disjoint_test: data/splits/structure_disjoint_splits/structure_disjoint_test.csv
+  structure_disjoint_split_audit: data/splits/structure_disjoint_splits/structure_disjoint_split_audit.csv
+dataset:
+  expected_n_molecules: 4495
+  expected_n_labels: 112
+  external_n_molecules: 87
+  external_n_pairs: 60
+  panel_n_labels: 43
+  panel_n_assessors: 13
+  current_snapshot_n_molecules: 4495
+  current_snapshot_n_labels: 113
+  current_snapshot_external_n_molecules: 87
+  manuscript_aligned_release_pending: false
+  excluded_from_model_label_vocabulary:
+    - odorless

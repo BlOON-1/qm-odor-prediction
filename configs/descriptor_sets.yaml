@@ -1,0 +1,72 @@
+representations:
+  ecfp4:
+    type: fingerprint
+    radius: 2
+    n_bits: 1024
+    input: canonical_smiles
+    standardization: none
+  rdkit:
+    type: continuous_descriptor
+    source: RDKit Descriptors._descList
+    initial_pool_size_approx: 160
+    missing_value_policy: remove_descriptor_columns_with_missing_values
+    correlation_filter:
+      method: pearson
+      threshold_abs_r: 0.9
+    scaling:
+      method: z_score
+      fit_on: training_set_only
+    feature_selection:
+      method: random_forest_shap
+      retained_n_features: 30
+  qm:
+    type: continuous_descriptor
+    categories:
+      electronic_energetics:
+        - HOMO_energy
+        - LUMO_energy
+        - HOMO-LUMO_gap
+        - First_vertical_IP
+        - First_vertical_EA
+        - Mulliken_electronegativity
+        - Hardness
+        - Electrophilicity_index
+        - Nucleophilicity_index
+      electrostatic_landscape:
+        - Maximal_value
+        - Minimal_value
+        - Overall_variance
+        - Overall_average_value
+        - Overall_surface_area
+        - Nonpolar_surface_area
+        - Polar_surface_area
+        - Molecular_polarity_index
+        - Magnitude_of_dipole_moment
+      aromaticity:
+        - HOMA
+        - Bird
+        - AV1245
+        - FLU
+        - ring_atoms_1based
+        - n_rings
+      polarizability:
+        - Isotropic_average_polarizability
+        - Polarizability_eigenvalue_max
+        - Polarizability_eigenvalue_avg
+        - Polarizability_eigenvalue_min
+        - Polarizability_anisotropy_def1
+  rdkit_qm:
+    type: concatenated_continuous_descriptor
+    components:
+      - rdkit
+      - qm
+
+preprocessing:
+  missing_value_policy: remove_descriptor_columns_with_missing_values
+  scaling:
+    method: z_score
+    fit_on: training_set_only
+    apply_to:
+      - rdkit
+      - qm
+      - rdkit_qm

@@ -1,0 +1,33 @@
+software:
+  gaussian: "Gaussian 16W"
+  gaussview: "GaussView 6.0.16"
+  multiwfn: "Multiwfn 3.8 dev"
+  rdkit: "record exact version after environment freeze"
+
+level_of_theory:
+  functional: B3LYP
+  basis_set: "6-311+G(2d,p)"
+  dispersion: "D3(BJ)"
+  gaussian_keywords:
+    - opt
+    - freq
+    - em=gd3bj
+
+input_sources:
+  three_dimensional_structures: PubChem
+  primary_identifier: CAS
+
+exclusion_criteria:
+  - no PubChem three-dimensional conformer
+  - failed geometry optimization
+  - imaginary frequency after optimization
+  - unresolved identifier-structure conflict
+
+outputs:
+  qm_descriptor_table: data/processed/qm_descriptors.csv
+  adch_atomic_charges: qm_calculations/parsed_outputs/adch_atomic_charges.csv
+  failed_jobs: qm_calculations/parsed_outputs/failed_qm_jobs.csv
+
+notes:
+  - Gaussian, GaussView, and Multiwfn are external software and are not installed by the Python environment.
+  - Continuous descriptors must be standardized using training-set parameters only.

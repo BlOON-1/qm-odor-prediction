@@ -1,0 +1,13 @@
+﻿pair_id,pair_key,cas_a,cas_b,n_or_rows_raw,n_jointly_tested_receptors,n_same_response,n_differential_response,same_response_proportion,differential_response_proportion,receptor_response_group,included_in_group_comparison,exclusion_reason,jointly_tested_or_genes,same_response_or_genes,differential_response_or_genes,evidence_summary,species_filter
+PAIR_0002,103-45-7__140-11-4,103-45-7,140-11-4,26,3,3,0,1.0,0.0,concordant,True,,OR1D2;hOR1A1;hOR2W1,OR1D2;hOR1A1;hOR2W1,,High;Low;Medium,human_only
+PAIR_0004,108-50-9__123-32-0,108-50-9,123-32-0,11,4,4,0,1.0,0.0,concordant,True,,hOR5K1;hOR5K2;hOR5K3;hOR5K4,hOR5K1;hOR5K2;hOR5K3;hOR5K4,,High;Low,human_only
+PAIR_0005,109-08-0__5910-89-4,109-08-0,5910-89-4,8,6,6,0,1.0,0.0,concordant,True,,hOR1A1;hOR1A2;hOR5K1;hOR5K2;hOR5K3;hOR5K4,hOR1A1;hOR1A2;hOR5K1;hOR5K2;hOR5K3;hOR5K4,,High;Low,human_only
+PAIR_0009,123-32-0__5910-89-4,123-32-0,5910-89-4,13,4,4,0,1.0,0.0,concordant,True,,hOR5K1;hOR5K2;hOR5K3;hOR5K4,hOR5K1;hOR5K2;hOR5K3;hOR5K4,,High;Low,human_only
+PAIR_0015,104-50-7__104-67-6,104-50-7,104-67-6,18,8,8,0,1.0,0.0,concordant,True,,OR11A1;OR8H1;hOR1A1;hOR2M3;hOR2W1;hOR5K1;hOR5M3;hOR8D1,OR11A1;OR8H1;hOR1A1;hOR2M3;hOR2W1;hOR5K1;hOR5M3;hOR8D1,,High;Low;Medium,human_only
+PAIR_0019,104-61-0__695-06-7,104-61-0,695-06-7,16,2,0,2,0.0,1.0,divergent,True,,hOR1A1;hOR2W1,,hOR1A1;hOR2W1,High;Low;Medium,human_only
+PAIR_0022,104-67-6__695-06-7,104-67-6,695-06-7,17,2,1,1,0.5,0.5,divergent,True,,hOR1A1;hOR2W1,hOR1A1,hOR2W1,High;Low;Medium,human_only
+PAIR_0027,105-54-4__123-29-5,105-54-4,123-29-5,10,2,1,1,0.5,0.5,divergent,True,,hOR1G1;hOR52D1,hOR1G1,hOR52D1,Low;Medium,human_only
+PAIR_0039,110-38-3__123-29-5,110-38-3,123-29-5,17,2,2,0,1.0,0.0,concordant,True,,hOR1G1;hOR52D1,hOR1G1;hOR52D1,,Low;Medium,human_only
+PAIR_0043,115-95-7__78-70-6,115-95-7,78-70-6,488,9,9,0,1.0,0.0,concordant,True,,hOR1G1;hOR1L3;hOR2B3;hOR2G2;hOR2M4;hOR2T10;hOR2T34;hOR5AC2;hOR5B17,hOR1G1;hOR1L3;hOR2B3;hOR2G2;hOR2M4;hOR2T10;hOR2T34;hOR5AC2;hOR5B17,,Low;Medium,human_only
+PAIR_0047,123-29-5__123-66-0,123-29-5,123-66-0,10,2,0,2,0.0,1.0,divergent,True,,hOR1G1;hOR52D1,,hOR1G1;hOR52D1,Low;Medium,human_only
+PAIR_0058,695-06-7__706-14-9,695-06-7,706-14-9,19,2,1,1,0.5,0.5,divergent,True,,hOR1A1;hOR2W1,hOR1A1,hOR2W1,High;Low;Medium,human_only

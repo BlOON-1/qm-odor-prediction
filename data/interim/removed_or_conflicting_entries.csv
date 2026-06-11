@@ -1,0 +1,217 @@
+﻿molecule_id,source_row_number,chemical_name,cas,canonical_smiles,issue_type,details
+MOL_000676,3401,quinine,130-95-0,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,missing_odor_labels,[]
+MOL_003034,4056,(R)-(-)-2-octanol,5978-70-1,,rdkit_smiles_parse_failed,SJWFXCIHNDVPSH-MRVPVSSYSA-N
+MOL_001506,2141,Propanal ethyl methylbutyl acetal,238757-30-7,CCCC(C)OC(CC)OCC,cas_to_multiple_canonical_smiles,238757-30-7
+MOL_001507,227,Butanal ethyl isoamyl acetal,238757-30-7,CCCC(OCC)OCCC(C)C,cas_to_multiple_canonical_smiles,238757-30-7
+MOL_002120,3824,"(E)-2,4-dimethyl-2-pentenoic acid",3876-52-6,C/C(=C\C(C)C)C(=O)O,canonical_smiles_to_multiple_cas,C/C(=C\C(C)C)C(=O)O
+MOL_003443,624,Dimethylpentenoic acid,66634-97-7,C/C(=C\C(C)C)C(=O)O,canonical_smiles_to_multiple_cas,C/C(=C\C(C)C)C(=O)O
+MOL_001805,3737,"(E,E)-2,6-alloocimene",3016-19-1,C/C=C(C)/C=C/C=C(C)C,canonical_smiles_to_multiple_cas,C/C=C(C)/C=C/C=C(C)C
+MOL_003462,76,Allo-ocimene,673-84-7,C/C=C(C)/C=C/C=C(C)C,canonical_smiles_to_multiple_cas,C/C=C(C)/C=C/C=C(C)C
+MOL_000083,3297,(E)-filbertone,102322-83-8,C/C=C/C(=O)C(C)CC,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C(C)CC
+MOL_004115,1677,Methylheptenone,81925-81-7,C/C=C/C(=O)C(C)CC,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C(C)CC
+MOL_001487,428,Damascenone,23696-85-7,C/C=C/C(=O)C1=C(C)C=CCC1(C)C,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C1=C(C)C=CCC1(C)C
+MOL_001492,3645,(E)-beta-damascenone,23726-93-4,C/C=C/C(=O)C1=C(C)C=CCC1(C)C,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C1=C(C)C=CCC1(C)C
+MOL_001581,3670,(E)-alpha-damascone,24720-09-0,C/C=C/C(=O)C1C(C)=CCCC1(C)C,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C1C(C)=CCCC1(C)C
+MOL_002275,429,Damascone,43052-87-5,C/C=C/C(=O)C1C(C)=CCCC1(C)C,canonical_smiles_to_multiple_cas,C/C=C/C(=O)C1C(C)=CCCC1(C)C
+MOL_000272,3336,(E)-2-butenoic acid,107-93-7,C/C=C/C(=O)O,canonical_smiles_to_multiple_cas,C/C=C/C(=O)O
+MOL_002070,238,Butenoic acid,3724-65-0,C/C=C/C(=O)O,canonical_smiles_to_multiple_cas,C/C=C/C(=O)O
+MOL_003389,1080,Hexenyl butenoate,65405-80-3,C/C=C/C(=O)OCC/C=C/CC,canonical_smiles_to_multiple_cas,C/C=C/C(=O)OCC/C=C/CC
+MOL_003653,4247,(E)-3-hexen-1-yl crotonate,68938-58-9,C/C=C/C(=O)OCC/C=C/CC,canonical_smiles_to_multiple_cas,C/C=C/C(=O)OCC/C=C/CC
+MOL_002930,1124,Hexyl methylpentenoate,58625-95-9,C/C=C/C(C)C(=O)OCCCCCC,canonical_smiles_to_multiple_cas,C/C=C/C(C)C(=O)OCCCCCC
+MOL_004171,4408,hexyl 2-methyl-3-pentenoate,85508-08-3,C/C=C/C(C)C(=O)OCCCCCC,canonical_smiles_to_multiple_cas,C/C=C/C(C)C(=O)OCCCCCC
+MOL_001265,3580,(E)-2-octen-4-ol,20125-81-9,C/C=C/C(O)CCCC,canonical_smiles_to_multiple_cas,C/C=C/C(O)CCCC
+MOL_002385,1943,Octenol,4798-61-2,C/C=C/C(O)CCCC,canonical_smiles_to_multiple_cas,C/C=C/C(O)CCCC
+MOL_000383,1038,Hexadienol,111-28-4,C/C=C/C=C/CO,canonical_smiles_to_multiple_cas,C/C=C/C=C/CO
+MOL_001102,3520,"(E,E)-2,4-hexadien-1-ol",17102-64-6,C/C=C/C=C/CO,canonical_smiles_to_multiple_cas,C/C=C/C=C/CO
+MOL_001088,2516,Hexadienyl butyrate,16930-93-1,C/C=C/C=C/COC(=O)CCC,canonical_smiles_to_multiple_cas,C/C=C/C=C/COC(=O)CCC
+MOL_004426,4481,"(E,E)-sorbyl butyrate",95994-93-7,C/C=C/C=C/COC(=O)CCC,canonical_smiles_to_multiple_cas,C/C=C/C=C/COC(=O)CCC
+MOL_000965,1039,Hexadienyl acetate,1516-17-2,C/C=C/C=C/COC(C)=O,canonical_smiles_to_multiple_cas,C/C=C/C=C/COC(C)=O
+MOL_002861,4017,"(E,E)-sorbyl acetate",57006-69-6,C/C=C/C=C/COC(C)=O,canonical_smiles_to_multiple_cas,C/C=C/C=C/COC(C)=O
+MOL_003105,1068,Hexenol,6126-50-7,C/C=C/CCCO,canonical_smiles_to_multiple_cas,C/C=C/CCCO
+MOL_004309,4452,(E)-4-hexen-1-ol,928-92-7,C/C=C/CCCO,canonical_smiles_to_multiple_cas,C/C=C/CCCO
+MOL_002991,4044,(E)-isoeugenyl acetate,5912-87-8,C/C=C/c1ccc(OC(C)=O)c(OC)c1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC(C)=O)c(OC)c1
+MOL_004324,1272,Isoeugenyl acetate,93-29-8,C/C=C/c1ccc(OC(C)=O)c(OC)c1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC(C)=O)c(OC)c1
+MOL_003317,4108,(E)-methyl isoeugenol,6379-72-2,C/C=C/c1ccc(OC)c(OC)c1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC)c(OC)c1
+MOL_004320,1278,Isoeugenyl methyl ether,93-16-3,C/C=C/c1ccc(OC)c(OC)c1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC)c(OC)c1
+MOL_000136,3305,anethol,104-46-1,C/C=C/c1ccc(OC)cc1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC)cc1
+MOL_002232,145,Anethole,4180-23-8,C/C=C/c1ccc(OC)cc1,canonical_smiles_to_multiple_cas,C/C=C/c1ccc(OC)cc1
+MOL_004029,4361,isopulegol,7786-67-6,C=C(C)C1CCC(C)CC1O,canonical_smiles_to_multiple_cas,C=C(C)C1CCC(C)CC1O
+MOL_004233,1342,Isopulegol,89-79-2,C=C(C)C1CCC(C)CC1O,canonical_smiles_to_multiple_cas,C=C(C)C1CCC(C)CC1O
+MOL_000537,3366,cis-carveol,1197-06-4,C=C(C)[C@@H]1CC=C(C)[C@H](O)C1,canonical_smiles_to_multiple_cas,C=C(C)[C@@H]1CC=C(C)[C@H](O)C1
+MOL_001336,333,Carveol,2102-59-2,C=C(C)[C@@H]1CC=C(C)[C@H](O)C1,canonical_smiles_to_multiple_cas,C=C(C)[C@@H]1CC=C(C)[C@H](O)C1
+MOL_001755,3722,"(E)-2,6-dimethyl-1,5,7-octatrien-3-ol",28977-58-4,C=C/C(C)=C/CC(O)C(=C)C,canonical_smiles_to_multiple_cas,C=C/C(C)=C/CC(O)C(=C)C
+MOL_001771,3260,Dimethyloctatrienol,29414-56-0,C=C/C(C)=C/CC(O)C(=C)C,canonical_smiles_to_multiple_cas,C=C/C(C)=C/CC(O)C(=C)C
+MOL_001246,1915,Ocimenyl acetate,197098-61-6,C=C/C(C)=C/CCC(C)(C)OC(C)=O,canonical_smiles_to_multiple_cas,C=C/C(C)=C/CCC(C)(C)OC(C)=O
+MOL_003774,4296,ocimen-1-yl acetate,72214-23-4,C=C/C(C)=C/CCC(C)(C)OC(C)=O,canonical_smiles_to_multiple_cas,C=C/C(C)=C/CCC(C)(C)OC(C)=O
+MOL_001156,3537,laevo-beta-pinene,18172-67-3,C=C1CC2CCC1C2(C)C,canonical_smiles_to_multiple_cas,C=C1CC2CCC1C2(C)C
+MOL_002364,3886,alpha-fenchene,471-84-1,C=C1CC2CCC1C2(C)C,canonical_smiles_to_multiple_cas,C=C1CC2CCC1C2(C)C
+MOL_002183,3846,(E)-nerolidol,40716-66-3,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C
+MOL_003769,1849,Nerolidol,7212-44-4,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,C=CC(C)(O)CC/C=C(\C)CCC=C(C)C
+MOL_003703,797,Ethyl octadienoate,69925-33-3,C=CC/C=C/CCC(=O)OCC,canonical_smiles_to_multiple_cas,C=CC/C=C/CCC(=O)OCC
+MOL_003776,4298,tropical dienoate (Bedoukian),72276-09-6,C=CC/C=C/CCC(=O)OCC,canonical_smiles_to_multiple_cas,C=CC/C=C/CCC(=O)OCC
+MOL_003042,1365,Linalool oxide,5989-33-3,C=CC1(C)CCC(C(C)(C)O)O1,canonical_smiles_to_multiple_cas,C=CC1(C)CCC(C(C)(C)O)O1
+MOL_003057,4057,linalool oxide (furanoid),60047-17-8,C=CC1(C)CCC(C(C)(C)O)O1,canonical_smiles_to_multiple_cas,C=CC1(C)CCC(C(C)(C)O)O1
+MOL_000647,3386,"(E)-3,12-tridecadiene nitrile",124071-42-7,C=CCCCCCCC/C=C/CC#N,canonical_smiles_to_multiple_cas,C=CCCCCCCC/C=C/CC#N
+MOL_000747,3428,tangerine nitrile,134769-33-8,C=CCCCCCCC/C=C/CC#N,canonical_smiles_to_multiple_cas,C=CCCCCCCC/C=C/CC#N
+MOL_000369,1676,Methylheptenone,110-93-0,CC(=O)CCC=C(C)C,canonical_smiles_to_multiple_cas,CC(=O)CCC=C(C)C
+MOL_002194,3850,filbert heptenone B,409-02-9,CC(=O)CCC=C(C)C,canonical_smiles_to_multiple_cas,CC(=O)CCC=C(C)C
+MOL_002953,550,Dihydroterpinyl acetate,58985-18-5,CC(=O)OC(C)(C)C1CCC(C)CC1,canonical_smiles_to_multiple_cas,CC(=O)OC(C)(C)C1CCC(C)CC1
+MOL_004074,4371,dihydro-alpha-terpinyl acetate,80-25-1,CC(=O)OC(C)(C)C1CCC(C)CC1,canonical_smiles_to_multiple_cas,CC(=O)OC(C)(C)C1CCC(C)CC1
+MOL_001783,3730,"methyl benzyl acetate (mixed ortho-,meta-,para-)",29759-11-3,CC(=O)OC(C)c1ccccc1,canonical_smiles_to_multiple_cas,CC(=O)OC(C)c1ccccc1
+MOL_004333,4455,styralyl acetate,93-92-5,CC(=O)OC(C)c1ccccc1,canonical_smiles_to_multiple_cas,CC(=O)OC(C)c1ccccc1
+MOL_001777,900,Farnesyl acetate,29548-30-9,CC(=O)OC/C=C(\C)CC/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,CC(=O)OC/C=C(\C)CC/C=C(\C)CCC=C(C)C
+MOL_002209,3854,"(E,E)-farnesyl acetate",4128-17-0,CC(=O)OC/C=C(\C)CC/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,CC(=O)OC/C=C(\C)CC/C=C(\C)CCC=C(C)C
+MOL_000107,359,Cinnamyl acetate,103-54-8,CC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CC(=O)OC/C=C/c1ccccc1
+MOL_001337,3602,(E)-cinnamyl acetate,21040-45-9,CC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CC(=O)OC/C=C/c1ccccc1
+MOL_001656,1403,Menthyl acetate,2623-23-6,CC(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C,canonical_smiles_to_multiple_cas,CC(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C
+MOL_004228,4423,menthyl acetate,89-48-5,CC(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C,canonical_smiles_to_multiple_cas,CC(=O)O[C@@H]1C[C@H](C)CC[C@H]1C(C)C
+MOL_000863,3458,(E)-citral,141-27-5,CC(C)=CCC/C(C)=C/C=O,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/C=O
+MOL_002655,374,Citral,5392-40-5,CC(C)=CCC/C(C)=C/C=O,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/C=O
+MOL_000242,3334,"(E,E)-farnesol",106-28-5,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO
+MOL_002337,899,Farnesol,4602-84-0,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/CC/C(C)=C/CO
+MOL_001520,2963,Profarnesal (Symrise),24048-13-3,CC(C)=CCC/C(C)=C/CCC(C)C=O,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/CCC(C)C=O
+MOL_002668,3968,muguet undecadienal,54082-68-7,CC(C)=CCC/C(C)=C/CCC(C)C=O,canonical_smiles_to_multiple_cas,CC(C)=CCC/C(C)=C/CCC(C)C=O
+MOL_000237,377,Citronellal,106-23-0,CC(C)=CCC[C@@H](C)CC=O,canonical_smiles_to_multiple_cas,CC(C)=CCC[C@@H](C)CC=O
+MOL_001504,3650,(R)-(+)-citronellal,2385-77-5,CC(C)=CCC[C@@H](C)CC=O,canonical_smiles_to_multiple_cas,CC(C)=CCC[C@@H](C)CC=O
+MOL_000236,378,Citronellol,106-22-9,CC(C)=CCC[C@@H](C)CCO,canonical_smiles_to_multiple_cas,CC(C)=CCC[C@@H](C)CCO
+MOL_000412,3350,(R)-(+)-beta-citronellol,1117-61-9,CC(C)=CCC[C@@H](C)CCO,canonical_smiles_to_multiple_cas,CC(C)=CCC[C@@H](C)CCO
+MOL_000839,367,Cinnamyl isovalerate,140-27-2,CC(C)CC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CC(C)CC(=O)OC/C=C/c1ccccc1
+MOL_003664,4253,(E)-cinnamyl isovalerate,69121-78-4,CC(C)CC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CC(C)CC(=O)OC/C=C/c1ccccc1
+MOL_003929,221,Bornyl isovalerate,76-50-6,CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C,canonical_smiles_to_multiple_cas,CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C
+MOL_004005,4355,isobornyl isovalerate,7779-73-9,CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C,canonical_smiles_to_multiple_cas,CC(C)CC(=O)OC1CC2CCC1(C)C2(C)C
+MOL_000235,619,Dimethyloctanol,106-21-8,CC(C)CCCC(C)CCO,canonical_smiles_to_multiple_cas,CC(C)CCCC(C)CCO
+MOL_000719,3416,tetrahydrogeraniol,1333-49-9,CC(C)CCCC(C)CCO,canonical_smiles_to_multiple_cas,CC(C)CCCC(C)CCO
+MOL_001092,3516,(E)-2-methyl-2-pentenoic acid,16957-70-3,CC/C=C(\C)C(=O)O,canonical_smiles_to_multiple_cas,CC/C=C(\C)C(=O)O
+MOL_001847,1733,Methylpentenoic acid,3142-72-1,CC/C=C(\C)C(=O)O,canonical_smiles_to_multiple_cas,CC/C=C(\C)C(=O)O
+MOL_001011,3496,(E)-2-pentenal,1576-87-0,CC/C=C/C=O,canonical_smiles_to_multiple_cas,CC/C=C/C=O
+MOL_003935,1999,Pentenal,764-39-6,CC/C=C/C=O,canonical_smiles_to_multiple_cas,CC/C=C/C=O
+MOL_000818,3448,methyl (E)-3-hexenoate,13894-61-6,CC/C=C/CC(=O)OC,canonical_smiles_to_multiple_cas,CC/C=C/CC(=O)OC
+MOL_001513,1508,Methyl hexenoate,2396-78-3,CC/C=C/CC(=O)OC,canonical_smiles_to_multiple_cas,CC/C=C/CC(=O)OC
+MOL_001514,757,Ethyl hexenoate,2396-83-0,CC/C=C/CC(=O)OCC,canonical_smiles_to_multiple_cas,CC/C=C/CC(=O)OCC
+MOL_001674,3698,ethyl (E)-3-hexenoate,26553-46-8,CC/C=C/CC(=O)OCC,canonical_smiles_to_multiple_cas,CC/C=C/CC(=O)OCC
+MOL_001636,3684,creamy lactone,25524-95-2,CC/C=C/CC1CCCC(=O)O1,canonical_smiles_to_multiple_cas,CC/C=C/CC1CCCC(=O)O1
+MOL_001971,3783,jasmin lactone (IFF),34686-71-0,CC/C=C/CC1CCCC(=O)O1,canonical_smiles_to_multiple_cas,CC/C=C/CC1CCCC(=O)O1
+MOL_002317,1060,Hexenal,4440-65-7,CC/C=C/CC=O,canonical_smiles_to_multiple_cas,CC/C=C/CC=O
+MOL_003663,4252,(E)-3-hexenal,69112-21-6,CC/C=C/CC=O,canonical_smiles_to_multiple_cas,CC/C=C/CC=O
+MOL_002704,1064,Hexenol,544-12-7,CC/C=C/CCO,canonical_smiles_to_multiple_cas,CC/C=C/CCO
+MOL_004313,4453,(E)-3-hexen-1-ol,928-97-2,CC/C=C/CCO,canonical_smiles_to_multiple_cas,CC/C=C/CCO
+MOL_000051,1094,Hexenyl methylbutanoate,10094-41-4,CC/C=C\CCOC(=O)C(C)CC,canonical_smiles_to_multiple_cas,CC/C=C\CCOC(=O)C(C)CC
+MOL_002613,3960,(Z)-3-hexen-1-yl 2-methyl butyrate,53398-85-9,CC/C=C\CCOC(=O)C(C)CC,canonical_smiles_to_multiple_cas,CC/C=C\CCOC(=O)C(C)CC
+MOL_001500,3648,isolongifolene ketone,23787-90-8,CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C,canonical_smiles_to_multiple_cas,CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C
+MOL_001774,3728,hexahydrotetramethyl methanonaphthalen-8-one,29461-13-0,CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C,canonical_smiles_to_multiple_cas,CC1(C)C2CCC3(C2)C1C(=O)CCC3(C)C
+MOL_002335,3194,Caryophyllene alcohol,4586-22-5,CC1(C)CC2C3CCCC(C)(C3O)C2C1,canonical_smiles_to_multiple_cas,CC1(C)CC2C3CCCC(C)(C3O)C2C1
+MOL_002842,4012,caryophyllene alcohol,56747-96-7,CC1(C)CC2C3CCCC(C)(C3O)C2C1,canonical_smiles_to_multiple_cas,CC1(C)CC2C3CCCC(C)(C3O)C2C1
+MOL_001042,905,Fenchyl alcohol,1632-73-1,CC1(C)[C@@H]2CC[C@@](C)(C2)[C@@H]1O,canonical_smiles_to_multiple_cas,CC1(C)[C@@H]2CC[C@@](C)(C2)[C@@H]1O
+MOL_002510,3927,(-)-alpha-fenchol,512-13-0,CC1(C)[C@@H]2CC[C@@](C)(C2)[C@@H]1O,canonical_smiles_to_multiple_cas,CC1(C)[C@@H]2CC[C@@](C)(C2)[C@@H]1O
+MOL_003588,4210,isofreshal,68259-31-4,CC1=C2CC(C=O)C(C1)C(C(C)C)C2,canonical_smiles_to_multiple_cas,CC1=C2CC(C=O)C(C1)C(C(C)C)C2
+MOL_004357,4462,fresh carbaldehyde,93904-56-4,CC1=C2CC(C=O)C(C1)C(C(C)C)C2,canonical_smiles_to_multiple_cas,CC1=C2CC(C=O)C(C1)C(C(C)C)C2
+MOL_003919,4337,(R)-tonka furanone,75640-26-5,CC1=C2CCC(C)C=C2OC1=O,canonical_smiles_to_multiple_cas,CC1=C2CCC(C)C=C2OC1=O
+MOL_004087,477,Dehydromenthofurolactone,80417-97-6,CC1=C2CCC(C)C=C2OC1=O,canonical_smiles_to_multiple_cas,CC1=C2CCC(C)C=C2OC1=O
+MOL_003559,4195,"2,4-ivy carbaldehyde",68039-49-6,CC1=CC(C)C(C=O)CC1,canonical_smiles_to_multiple_cas,CC1=CC(C)C(C=O)CC1
+MOL_003629,2945,Dimethyltetrahydrobenzaldehyde,68737-61-1,CC1=CC(C)C(C=O)CC1,canonical_smiles_to_multiple_cas,CC1=CC(C)C(C=O)CC1
+MOL_004017,4358,(+)-alpha-terpineol,7785-53-7,CC1=CC[C@H](C(C)(C)O)CC1,canonical_smiles_to_multiple_cas,CC1=CC[C@H](C(C)(C)O)CC1
+MOL_004471,2264,Terpineol,98-55-5,CC1=CC[C@H](C(C)(C)O)CC1,canonical_smiles_to_multiple_cas,CC1=CC[C@H](C(C)(C)O)CC1
+MOL_002439,549,Dihydroterpineol,498-81-7,CC1CCC(C(C)(C)O)CC1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)(C)O)CC1
+MOL_002952,4035,dihydroterpineol,58985-02-7,CC1CCC(C(C)(C)O)CC1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)(C)O)CC1
+MOL_002407,3900,(±)-isomenthone,491-07-6,CC1CCC(C(C)C)C(=O)C1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)C(=O)C1
+MOL_004234,4426,(±)-menthone,89-80-5,CC1CCC(C(C)C)C(=O)C1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)C(=O)C1
+MOL_000942,1399,Menthol,1490-04-6,CC1CCC(C(C)C)C(O)C1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)C(O)C1
+MOL_002405,3899,neoisomenthol,491-02-1,CC1CCC(C(C)C)C(O)C1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)C(O)C1
+MOL_004232,4425,"dextro,laevo-menthol",89-78-1,CC1CCC(C(C)C)C(O)C1,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)C(O)C1
+MOL_002446,336,Carvomenthone,499-70-7,CC1CCC(C(C)C)CC1=O,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)CC1=O
+MOL_003026,4053,tetrahydrocarvone,59471-80-6,CC1CCC(C(C)C)CC1=O,canonical_smiles_to_multiple_cas,CC1CCC(C(C)C)CC1=O
+MOL_001498,3647,"2,4,6-trimethyl-1,3,5-trithiane",23769-39-3,CC1SC(C)SC(C)S1,canonical_smiles_to_multiple_cas,CC1SC(C)SC(C)S1
+MOL_001702,2369,Trimethyltrithiane,2765-04-0,CC1SC(C)SC(C)S1,canonical_smiles_to_multiple_cas,CC1SC(C)SC(C)S1
+MOL_000660,3394,(E)-alpha-methyl ionone (74-80%),127-42-4,CCC(=O)/C=C/C1C(C)=CCCC1(C)C,canonical_smiles_to_multiple_cas,CCC(=O)/C=C/C1C(C)=CCCC1(C)C
+MOL_000727,1512,Methyl ionone (isomers not specified  - see comments),1335-46-2,CCC(=O)/C=C/C1C(C)=CCCC1(C)C,canonical_smiles_to_multiple_cas,CCC(=O)/C=C/C1C(C)=CCCC1(C)C
+MOL_000108,369,Cinnamyl propionate,103-56-0,CCC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCC(=O)OC/C=C/c1ccccc1
+MOL_004053,4366,(E)-cinnamyl propionate,78761-38-3,CCC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCC(=O)OC/C=C/c1ccccc1
+MOL_001180,3548,dihydrolinalool,18479-51-1,CCC(C)(O)CCC=C(C)C,canonical_smiles_to_multiple_cas,CCC(C)(O)CCC=C(C)C
+MOL_001426,545,Dihydrolinalool,2270-57-7,CCC(C)(O)CCC=C(C)C,canonical_smiles_to_multiple_cas,CCC(C)(O)CCC=C(C)C
+MOL_000517,2492,Hexenoic acid,1191-04-4,CCC/C=C/C(=O)O,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)O
+MOL_000741,3426,(E)-2-hexenoic acid,13419-69-7,CCC/C=C/C(=O)O,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)O
+MOL_000820,3449,methyl (E)-2-hexenoate,13894-63-8,CCC/C=C/C(=O)OC,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)OC
+MOL_001512,1507,Methyl hexenoate,2396-77-2,CCC/C=C/C(=O)OC,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)OC
+MOL_000987,758,Ethyl hexenoate,1552-67-6,CCC/C=C/C(=O)OCC,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)OCC
+MOL_001705,3709,ethyl (E)-2-hexenoate,27829-72-7,CCC/C=C/C(=O)OCC,canonical_smiles_to_multiple_cas,CCC/C=C/C(=O)OCC
+MOL_002695,1056,Hexenal diethyl acetal,54306-00-2,CCC/C=C/C(OCC)OCC,canonical_smiles_to_multiple_cas,CCC/C=C/C(OCC)OCC
+MOL_003503,4163,(E)-2-hexenal diethyl acetal,67746-30-9,CCC/C=C/C(OCC)OCC,canonical_smiles_to_multiple_cas,CCC/C=C/C(OCC)OCC
+MOL_002479,1059,Hexenal,505-57-7,CCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCC/C=C/C=O
+MOL_003459,4145,(E)-2-hexenal,6728-26-3,CCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCC/C=C/C=O
+MOL_004177,4409,(E)-2-hexenal,85761-70-2,CCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCC/C=C/C=O
+MOL_001165,888,Ethyltrimethylnorbornanol,18368-91-7,CCC1(O)C2(C)CCC(C2)C1(C)C,canonical_smiles_to_multiple_cas,CCC1(O)C2(C)CCC(C2)C1(C)C
+MOL_003549,4187,2-ethyl fenchol + arbanol,67952-68-5,CCC1(O)C2(C)CCC(C2)C1(C)C,canonical_smiles_to_multiple_cas,CCC1(O)C2(C)CCC(C2)C1(C)C
+MOL_002103,3820,"3,5-octadien-2-one",38284-27-4,CCC=CC=CC(C)=O,canonical_smiles_to_multiple_cas,CCC=CC=CC(C)=O
+MOL_003378,1920,Octadienone,65213-86-7,CCC=CC=CC(C)=O,canonical_smiles_to_multiple_cas,CCC=CC=CC(C)=O
+MOL_002821,4009,"2,4,6-nonatrienal",56269-22-8,CCC=CC=CC=CC=O,canonical_smiles_to_multiple_cas,CCC=CC=CC=CC=O
+MOL_002863,1887,Nonatrienal,57018-53-8,CCC=CC=CC=CC=O,canonical_smiles_to_multiple_cas,CCC=CC=CC=CC=O
+MOL_000112,363,Cinnamyl butyrate,103-61-7,CCCC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCCC(=O)OC/C=C/c1ccccc1
+MOL_004054,4367,(E)-cinnamyl butyrate,78761-39-4,CCCC(=O)OC/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCCC(=O)OC/C=C/c1ccccc1
+MOL_001348,1466,Methyl acetoxyhexanoate,21188-60-3,CCCC(CC(=O)OC)OC(C)=O,canonical_smiles_to_multiple_cas,CCCC(CC(=O)OC)OC(C)=O
+MOL_003963,4345,methyl R-3-acetoxyhexanoate,77118-93-5,CCCC(CC(=O)OC)OC(C)=O,canonical_smiles_to_multiple_cas,CCCC(CC(=O)OC)OC(C)=O
+MOL_002988,4042,"(E,E)-2,4-nonadienal",5910-87-2,CCCC/C=C/C=C/C=O,canonical_smiles_to_multiple_cas,CCCC/C=C/C=C/C=O
+MOL_003470,1858,Nonadienal,6750-03-4,CCCC/C=C/C=C/C=O,canonical_smiles_to_multiple_cas,CCCC/C=C/C=C/C=O
+MOL_001205,3555,(E)-2-heptenal,18829-55-5,CCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCC/C=C/C=O
+MOL_001571,1000,Heptenal,2463-63-0,CCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCC/C=C/C=O
+MOL_001483,1936,Octenal,2363-89-5,CCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCC/C=C/C=O
+MOL_001625,3681,(E)-2-octenal,2548-87-0,CCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCC/C=C/C=O
+MOL_000749,1544,Methyl nonenoate,13481-87-3,CCCCC/C=C/CC(=O)OC,canonical_smiles_to_multiple_cas,CCCCC/C=C/CC(=O)OC
+MOL_002049,3804,methyl (E)-3-nonenoate,36781-67-6,CCCCC/C=C/CC(=O)OC,canonical_smiles_to_multiple_cas,CCCCC/C=C/CC(=O)OC
+MOL_000695,2376,Undecadienal,13162-46-4,CCCCCC/C=C/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCC/C=C/C=C/C=O
+MOL_001811,3740,"(E,E)-2,4-undecadienal",30361-29-6,CCCCCC/C=C/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCC/C=C/C=C/C=O
+MOL_001570,1888,Nonenal,2463-53-8,CCCCCC/C=C\C=O,canonical_smiles_to_multiple_cas,CCCCCC/C=C\C=O
+MOL_003086,4067,(Z)-2-nonenal,60784-31-8,CCCCCC/C=C\C=O,canonical_smiles_to_multiple_cas,CCCCCC/C=C\C=O
+MOL_000755,2612,Decadienal,134998-59-7,CCCCCC=CC=CC=O,canonical_smiles_to_multiple_cas,CCCCCC=CC=CC=O
+MOL_001482,3641,"2,4-decadienal",2363-88-4,CCCCCC=CC=CC=O,canonical_smiles_to_multiple_cas,CCCCCC=CC=CC=O
+MOL_001917,3770,(E)-2-decenoic acid,334-49-6,CCCCCCC/C=C/C(=O)O,canonical_smiles_to_multiple_cas,CCCCCCC/C=C/C(=O)O
+MOL_003797,4307,5(6)-decenoic acid,72881-27-7,CCCCCCC/C=C/C(=O)O,canonical_smiles_to_multiple_cas,CCCCCCC/C=C/C(=O)O
+MOL_001585,1489,Methyl decenoate,2482-39-5,CCCCCCC/C=C/C(=O)OC,canonical_smiles_to_multiple_cas,CCCCCCC/C=C/C(=O)OC
+MOL_003829,4320,methyl (E)-2-decenoate,7367-85-3,CCCCCCC/C=C/C(=O)OC,canonical_smiles_to_multiple_cas,CCCCCCC/C=C/C(=O)OC
+MOL_001589,3671,(Z)-2-decenal,2497-25-8,CCCCCCC/C=C\C=O,canonical_smiles_to_multiple_cas,CCCCCCC/C=C\C=O
+MOL_002134,449,Decenal,3913-71-1,CCCCCCC/C=C\C=O,canonical_smiles_to_multiple_cas,CCCCCCC/C=C\C=O
+MOL_001572,2390,Undecenal,2463-77-6,CCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCC/C=C/C=O
+MOL_002620,3961,(E)-2-undecenal,53448-07-0,CCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCC/C=C/C=O
+MOL_002079,2394,Undecenol,37617-03-1,CCCCCCCC/C=C/CO,canonical_smiles_to_multiple_cas,CCCCCCCC/C=C/CO
+MOL_003901,4330,(E)-2-undecen-1-ol,75039-84-8,CCCCCCCC/C=C/CO,canonical_smiles_to_multiple_cas,CCCCCCCC/C=C/CO
+MOL_003718,4271,(E)-2-tridecenal,7069-41-2,CCCCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCCCC/C=C/C=O
+MOL_003984,2337,Tridecenal,7774-82-5,CCCCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCCCC/C=C/C=O
+MOL_003604,2339,Tridecenol,68480-25-1,CCCCCCCCCC/C=C/CO,canonical_smiles_to_multiple_cas,CCCCCCCCCC/C=C/CO
+MOL_003888,4329,(E)-2-tridecen-1-ol,74962-98-4,CCCCCCCCCC/C=C/CO,canonical_smiles_to_multiple_cas,CCCCCCCCCC/C=C/CO
+MOL_002531,2277,Tetradecenal,51534-36-2,CCCCCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCCCCC/C=C/C=O
+MOL_003355,4116,(E)-2-tetradecenal,64461-99-0,CCCCCCCCCCC/C=C/C=O,canonical_smiles_to_multiple_cas,CCCCCCCCCCC/C=C/C=O
+MOL_000146,2382,Undecalactone,104-67-6,CCCCCCC[C@H]1CCC(=O)O1,canonical_smiles_to_multiple_cas,CCCCCCC[C@H]1CCC(=O)O1
+MOL_003853,4326,(S)-gamma-undecalactone,74568-05-1,CCCCCCC[C@H]1CCC(=O)O1,canonical_smiles_to_multiple_cas,CCCCCCC[C@H]1CCC(=O)O1
+MOL_000723,127,Amyl furoate,1334-82-3,CCCCCOC(=O)c1ccco1,canonical_smiles_to_multiple_cas,CCCCCOC(=O)c1ccco1
+MOL_002450,3911,amyl 2-furoate,4996-48-9,CCCCCOC(=O)c1ccco1,canonical_smiles_to_multiple_cas,CCCCCOC(=O)c1ccco1
+MOL_000649,3388,(R)-4-methyl nonanoic acid,124918-65-6,CCCCC[C@@H](C)CCC(=O)O,canonical_smiles_to_multiple_cas,CCCCC[C@@H](C)CCC(=O)O
+MOL_002329,1710,Methylnonanoic acid,45019-28-1,CCCCC[C@@H](C)CCC(=O)O,canonical_smiles_to_multiple_cas,CCCCC[C@@H](C)CCC(=O)O
+MOL_000142,1871,Nonalactone,104-61-0,CCCCC[C@H]1CCC(=O)O1,canonical_smiles_to_multiple_cas,CCCCC[C@H]1CCC(=O)O1
+MOL_003297,4101,(S)-gamma-nonalactone,63357-97-1,CCCCC[C@H]1CCC(=O)O1,canonical_smiles_to_multiple_cas,CCCCC[C@H]1CCC(=O)O1
+MOL_000673,3398,(R)-4-methyl octanoic acid,128342-71-2,CCCC[C@@H](C)CCC(=O)O,canonical_smiles_to_multiple_cas,CCCC[C@@H](C)CCC(=O)O
+MOL_002762,1712,Methyloctanoic acid,54947-74-9,CCCC[C@@H](C)CCC(=O)O,canonical_smiles_to_multiple_cas,CCCC[C@@H](C)CCC(=O)O
+MOL_000686,751,Ethyl geranate,13058-12-3,CCOC(=O)/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,CCOC(=O)/C=C(\C)CCC=C(C)C
+MOL_001886,3762,(E)-ethyl geranate,32659-21-5,CCOC(=O)/C=C(\C)CCC=C(C)C,canonical_smiles_to_multiple_cas,CCOC(=O)/C=C(\C)CCC=C(C)C
+MOL_000098,732,Ethyl cinnamate,103-36-6,CCOC(=O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCOC(=O)/C=C/c1ccccc1
+MOL_002237,3864,ethyl (E)-cinnamate,4192-77-2,CCOC(=O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,CCOC(=O)/C=C/c1ccccc1
+MOL_000828,3450,"3,5-cocoa pyrazine",13925-07-0,CCc1ncc(C)nc1C,canonical_smiles_to_multiple_cas,CCc1ncc(C)nc1C
+MOL_002769,844,Ethyldimethylpyrazine,55031-15-7,CCc1ncc(C)nc1C,canonical_smiles_to_multiple_cas,CCc1ncc(C)nc1C
+MOL_000096,1481,Methyl cinnamate,103-26-4,COC(=O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,COC(=O)/C=C/c1ccccc1
+MOL_001125,3525,methyl (E)-cinnamate,1754-62-7,COC(=O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,COC(=O)/C=C/c1ccccc1
+MOL_001243,1438,Methoxycinnamaldehyde,1963-36-6,COc1ccc(/C=C/C=O)cc1,canonical_smiles_to_multiple_cas,COc1ccc(/C=C/C=O)cc1
+MOL_001575,3666,(E)-para-methoxycinnamaldehyde,24680-50-0,COc1ccc(/C=C/C=O)cc1,canonical_smiles_to_multiple_cas,COc1ccc(/C=C/C=O)cc1
+MOL_001745,3719,2-methyl-3-(methyl thio) pyrazine,2882-20-4,CSc1nccnc1C,canonical_smiles_to_multiple_cas,CSc1nccnc1C
+MOL_003548,1704,Methylmethylthiopyrazine (mixture of isomers),67952-65-2,CSc1nccnc1C,canonical_smiles_to_multiple_cas,CSc1nccnc1C
+MOL_001052,3508,(±)-geosmin,16423-19-1,C[C@@H]1CCC[C@]2(C)CCCC[C@@]12O,canonical_smiles_to_multiple_cas,C[C@@H]1CCC[C@]2(C)CCCC[C@@]12O
+MOL_002541,3934,(+)-geosmin,5173-69-3,C[C@@H]1CCC[C@]2(C)CCCC[C@@]12O,canonical_smiles_to_multiple_cas,C[C@@H]1CCC[C@]2(C)CCCC[C@@]12O
+MOL_001140,3530,(R)-(+)-menthofuran,17957-94-7,Cc1coc2c1CC[C@@H](C)C2,canonical_smiles_to_multiple_cas,Cc1coc2c1CC[C@@H](C)C2
+MOL_002415,1397,Menthofuran,494-90-6,Cc1coc2c1CC[C@@H](C)C2,canonical_smiles_to_multiple_cas,Cc1coc2c1CC[C@@H](C)C2
+MOL_002127,3827,"6,7-dihydro-2,3-dimethyl-5H-cyclopentapyrazine",38917-62-3,Cc1nc2c(nc1C)CCC2,canonical_smiles_to_multiple_cas,Cc1nc2c(nc1C)CCC2
+MOL_002128,538,Dihydrodimethylcyclopentapyrazine,38917-63-4,Cc1nc2c(nc1C)CCC2,canonical_smiles_to_multiple_cas,Cc1nc2c(nc1C)CCC2
+MOL_003176,555,Dihydroxydihydroxymethyldioxane,62147-49-3,O=C(CO)CO,canonical_smiles_to_multiple_cas,O=C(CO)CO
+MOL_004432,4483,dihydroxyacetone (monomer),96-26-4,O=C(CO)CO,canonical_smiles_to_multiple_cas,O=C(CO)CO
+MOL_002172,3842,(E)-aconitic acid,4023-65-8,O=C(O)/C=C(\CC(=O)O)C(=O)O,canonical_smiles_to_multiple_cas,O=C(O)/C=C(\CC(=O)O)C(=O)O
+MOL_002442,74,Aconitic acid,499-12-7,O=C(O)/C=C(\CC(=O)O)C(=O)O,canonical_smiles_to_multiple_cas,O=C(O)/C=C(\CC(=O)O)C(=O)O
+MOL_000835,3452,(E)-cinnamic acid,140-10-3,O=C(O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,O=C(O)/C=C/c1ccccc1
+MOL_003174,358,Cinnamic acid,621-82-9,O=C(O)/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,O=C(O)/C=C/c1ccccc1
+MOL_000140,357,Cinnamaldehyde,104-55-2,O=C/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,O=C/C=C/c1ccccc1
+MOL_000904,3465,(E)-cinnamaldehyde,14371-10-9,O=C/C=C/c1ccccc1,canonical_smiles_to_multiple_cas,O=C/C=C/c1ccccc1

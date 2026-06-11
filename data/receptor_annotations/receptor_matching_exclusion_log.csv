@@ -1,0 +1,165 @@
+﻿pair_id,pair_key,species,or_gene,row_status,exclusion_reason,pair_id_source,notes
+PAIR_0001,10094-34-5__93-92-5,,,excluded,no_matched_or_data,1,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0003,105-53-3__141-97-9,,,excluded,no_matched_or_data,3,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR51V1,excluded,conflicting_duplicate_records,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0006,110-41-8__112-44-7,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,6,CAS not found in compounds.csv; exact SMILES used.
+PAIR_0008,118-58-1__6259-76-3,,,excluded,no_matched_or_data,8,No Homo sapiens WT OR record found in M2OR. | No exact CAS or exact SMILES match found in M2OR.
+PAIR_0011,2244-16-8__6485-40-1,Homo sapiens,OR1D4,excluded,conflicting_duplicate_records,11,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0011,2244-16-8__6485-40-1,Homo sapiens,OR2T7,excluded,conflicting_duplicate_records,11,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0011,2244-16-8__6485-40-1,Homo sapiens,OR5M3,excluded,lower_priority_duplicate_record,11,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0011,2244-16-8__6485-40-1,Homo sapiens,OR8G2,excluded,conflicting_duplicate_records,11,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0012,34590-94-8__41890-92-0,,,excluded,no_matched_or_data,12,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0034,109-60-4__110-19-0,,,excluded,no_matched_or_data,34,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR2A7,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0035,109-60-4__112-14-1,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,35,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR2A7,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0037,110-19-0__112-14-1,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,37,No exact CAS or exact SMILES match found in M2OR.
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR2A7,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,42,
+PAIR_0042,112-14-1__141-78-6,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,42,
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,OR1L6,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR13A1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR2G2,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR2T34,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0043,115-95-7__78-70-6,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,43,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR2A7,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0044,118-58-1__119-36-8,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,44,No Homo sapiens WT OR record found in M2OR.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR10G4,excluded,conflicting_duplicate_records,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR10X1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR11H4,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR13D1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR14J1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR1D5,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR1E1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2C1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2G2,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2G3,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2J2,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2T34,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR2T5,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR4C15,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR4C3,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR51V1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR5A1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR5H6,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR5L1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR5T1,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR5T2,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR6K6,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR8B8,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR8G5,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.
+PAIR_0046,121-32-4__121-33-5,Homo sapiens,hOR9Q2,excluded,lower_priority_duplicate_record,46,Multiple CAS hits; exact SMILES used to disambiguate.

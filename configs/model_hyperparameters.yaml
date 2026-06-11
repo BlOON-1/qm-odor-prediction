@@ -1,0 +1,112 @@
+logistic_regression:
+  enabled: true
+  framework: scikit-learn
+  task_type: multilabel_binary_relevance
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      penalty: TODO
+      C: TODO
+      class_weight: TODO
+      solver: TODO
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+support_vector_machine:
+  enabled: true
+  framework: scikit-learn
+  task_type: multilabel_binary_relevance
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      kernel: TODO
+      C: TODO
+      gamma: TODO
+      probability: true
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+random_forest:
+  enabled: true
+  framework: scikit-learn
+  task_type: multilabel_binary_relevance
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      n_estimators: TODO
+      max_depth: TODO
+      min_samples_split: TODO
+      min_samples_leaf: TODO
+      class_weight: TODO
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+xgboost:
+  enabled: true
+  framework: xgboost
+  task_type: multilabel_binary_relevance
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      n_estimators: TODO
+      max_depth: TODO
+      learning_rate: TODO
+      subsample: TODO
+      colsample_bytree: TODO
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+cnn:
+  enabled: true
+  framework: pytorch
+  task_type: multilabel_sigmoid_output
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      architecture: TODO
+      hidden_channels: TODO
+      dropout: TODO
+      learning_rate: TODO
+      batch_size: TODO
+      epochs: TODO
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+mlp:
+  enabled: true
+  framework: pytorch
+  task_type: multilabel_sigmoid_output
+  hyperparameter_search:
+    method: TODO
+    search_budget: TODO
+    selection_metric: macro_auc
+    test_set_used_for_selection: false
+    candidate_parameters:
+      hidden_dims: TODO
+      dropout: TODO
+      learning_rate: TODO
+      batch_size: TODO
+      epochs: TODO
+  training:
+    random_seeds: [42, 43, 44, 45, 46]
+
+metrics:
+  - micro_auc
+  - macro_auc
+  - labelwise_delta_auc
+  - remaining_error_reduction

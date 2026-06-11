@@ -1,0 +1,38 @@
+﻿section,metric,value
+script_inspection,expected_input_structure,"base_dir with fold_* directories, each containing fold_<xx>.csv and test_<xx>.csv, plus ECFP4_data.csv"
+script_inspection,treats_fold_01_as_train,True
+script_inspection,treats_test_01_as_test,True
+script_inspection,checks_cas_overlap,True
+script_inspection,removes_overlapping_cas_from_training_set,True
+script_inspection,expects_ecfp4_data_csv,True
+fold_01.csv,row_count,2142
+fold_01.csv,column_count,64
+fold_01.csv,columns,original_index;chemical_name;smiles;database_id;cas;Labels;HOMO_energy/eV;LUMO_energy/eV;HOMO-LUMO_gap/eV;First_vertical_IP/eV;First_vertical_EA/eV;Mulliken_electronegativity/eV;Hardness/eV;Electrophilicity_index/eV;Nucleophilicity_index/eV;Maximal_value/(kcal/mol);Minimal_value/(kcal/mol);Overall_variance/(kcal/mol)^2;Overall_average_value/(kcal/mol);Overall_surface_area/Angstrom^2;Nonpolar_surface_area/Angstrom^2;Polar_surface_area/Angstrom^2;Molecular_polarity_index/eV;Magnitude_of_dipole_moment/Debye;MolWt;MolLogP;TPSA;NumHAcceptors;NumRotatableBonds;NumAromaticRings;BalabanJ;BertzCT;Chi0n;Chi2n;Chi3n;Chi1v;Chi2v;Chi3v;fr_C_O;fr_C_O_noCOO;fr_NH0;fr_allylic_oxid;fr_benzene;fr_ester;fr_ether;fr_unbrch_alkane;NumRings;NumAromaticHeterocycles;FractionCSP3;Kappa1;Kappa2;Kappa3;HallKierAlpha;Ipc;PMI1;PMI2;PMI3;NPR1;NPR2;RadiusOfGyration;InertialShapeFactor;Eccentricity;Asphericity;SpherocityIndex
+fold_01.csv,unique_cas_count,2142
+fold_01.csv,missing_cas_count,0
+fold_01.csv,duplicate_cas_count,0
+fold_01.csv,exists,True
+test_01.csv,row_count,1047
+test_01.csv,column_count,64
+test_01.csv,columns,original_index;chemical_name;smiles;database_id;cas;Labels;HOMO_energy/eV;LUMO_energy/eV;HOMO-LUMO_gap/eV;First_vertical_IP/eV;First_vertical_EA/eV;Mulliken_electronegativity/eV;Hardness/eV;Electrophilicity_index/eV;Nucleophilicity_index/eV;Maximal_value/(kcal/mol);Minimal_value/(kcal/mol);Overall_variance/(kcal/mol)^2;Overall_average_value/(kcal/mol);Overall_surface_area/Angstrom^2;Nonpolar_surface_area/Angstrom^2;Polar_surface_area/Angstrom^2;Molecular_polarity_index/eV;Magnitude_of_dipole_moment/Debye;MolWt;MolLogP;TPSA;NumHAcceptors;NumRotatableBonds;NumAromaticRings;BalabanJ;BertzCT;Chi0n;Chi2n;Chi3n;Chi1v;Chi2v;Chi3v;fr_C_O;fr_C_O_noCOO;fr_NH0;fr_allylic_oxid;fr_benzene;fr_ester;fr_ether;fr_unbrch_alkane;NumRings;NumAromaticHeterocycles;FractionCSP3;Kappa1;Kappa2;Kappa3;HallKierAlpha;Ipc;PMI1;PMI2;PMI3;NPR1;NPR2;RadiusOfGyration;InertialShapeFactor;Eccentricity;Asphericity;SpherocityIndex
+test_01.csv,unique_cas_count,1047
+test_01.csv,missing_cas_count,0
+test_01.csv,duplicate_cas_count,0
+test_01.csv,exists,True
+role_detection,script_convention_role,"{""fold_01.csv"": ""train"", ""test_01.csv"": ""test""}"
+role_detection,user_statement_role,"{""fold_01.csv"": ""test"", ""test_01.csv"": ""train""}"
+role_detection,inferred_by_row_count,"{""fold_01.csv"": ""train"", ""test_01.csv"": ""test""}"
+role_detection,final_role,"{""fold_01.csv"": ""train"", ""test_01.csv"": ""test""}"
+role_detection,final_role_source,script_convention
+split_quality,train_test_cas_overlap_count,0
+split_quality,duplicate_cas_train,0
+split_quality,duplicate_cas_test,0
+split_quality,missing_in_benchmark_train,0
+split_quality,missing_in_benchmark_test,0
+split_quality,missing_in_ecfp4_index_train,0
+split_quality,missing_in_ecfp4_index_test,0
+final_split,train_rows,2142
+final_split,test_rows,1047
+final_split,train_unique_cas,2142
+final_split,test_unique_cas,1047
+coverage,benchmark_coverage_fraction,0.7096128170894526

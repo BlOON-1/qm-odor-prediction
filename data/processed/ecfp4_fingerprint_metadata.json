@@ -1,0 +1,11 @@
+{
+  "radius": 2,
+  "nBits": 1024,
+  "useChirality": false,
+  "useBondTypes": true,
+  "rdkit_version": "2025.09.1",
+  "input_file": "data/processed/benchmark_molecules_observed.csv",
+  "n_molecules_total": 4495,
+  "n_molecules_valid": 4494,
+  "n_molecules_invalid": 1
+}

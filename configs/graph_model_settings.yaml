@@ -1,0 +1,48 @@
+models:
+  gcn:
+    node_features:
+      - atomic_number
+      - formal_valence
+      - degree
+      - aromaticity
+      - hybridization
+      - ring_membership
+      - hydrogen_count
+  adch_only:
+    node_features:
+      - atomic_number
+      - adch_charge
+  gcn_adch:
+    node_features:
+      - atomic_number
+      - formal_valence
+      - degree
+      - aromaticity
+      - hybridization
+      - ring_membership
+      - hydrogen_count
+      - adch_charge
+
+graph_construction:
+  source: canonical_smiles
+  atoms_as_nodes: true
+  covalent_bonds_as_edges: true
+  aromatic_bond_encoded: true
+
+training:
+  label_subset_size: 43
+  loss: binary_cross_entropy
+  output_activation: sigmoid
+
+evaluation:
+  external_set_n_molecules: 90
+  structural_neighbor_pairs: 60
+  pairwise_similarity_metric: jaccard
+  agreement_metric: lins_concordance_correlation_coefficient
+  embedding_layer: penultimate
+  visualization: t_sne_for_visualization_only
+  quantitative_embedding_metric: knn_macro_auc
+
+notes:
+  - External sensory-panel data must not be used for model training.
+  - t-SNE is for visualization only; quantitative analysis must use original embedding space.

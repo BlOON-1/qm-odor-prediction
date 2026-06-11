@@ -1,0 +1,27 @@
+random_seeds:
+- 42
+- 43
+- 44
+- 45
+- 46
+standard_split:
+  method: iterative_multilabel_stratification
+  package: iterative-stratification
+  train_fraction: 0.7
+  test_fraction: 0.3
+  preserve_label_marginals: true
+structure_disjoint_split:
+  source_files:
+    original_script: split_ecfp4_by_folds.py
+    train_file: data/splits/structure_disjoint_splits/structure_disjoint_train.csv
+    test_file: data/splits/structure_disjoint_splits/structure_disjoint_test.csv
+  similarity_metric: tanimoto
+  fingerprint: ecfp4
+  high_similarity_threshold: 0.8
+  final_role_convention: script_convention
+  audit_report: reports/structure_disjoint_split_report.md
+leakage_checks:
+- molecule_id_uniqueness
+- no_duplicate_canonical_smiles_across_train_test
+- report_high_similarity_neighbors_across_train_test
+- fit_scalers_on_training_set_only

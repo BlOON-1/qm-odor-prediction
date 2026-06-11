@@ -1,0 +1,32 @@
+output_formats:
+- pdf
+- png
+style:
+  font_family: Arial
+  dpi: 600
+  use_vector_for_final: true
+figures:
+  fig1:
+    title: QM-descriptor-enhanced odor-prediction framework and label structure
+    source_data: data/source_data/fig1_source_data.xlsx
+    script: src/qmodor/figures/make_fig1.py
+    output: figures/main/fig1.pdf
+  fig2:
+    title: Comparison of molecular representations for multi-label odor prediction
+    source_data: data/source_data/fig2_source_data.xlsx
+    script: src/qmodor/figures/make_fig2.py
+    output: figures/main/fig2.pdf
+  fig3:
+    title: Charge-enhanced graph models for odor discrimination within structural
+      neighborhoods
+    source_data: data/source_data/fig3_source_data.xlsx
+    script: src/qmodor/figures/make_fig3.py
+    output: figures/main/fig3.pdf
+  fig4:
+    title: QM-descriptor and RDKit-descriptor variation and receptor-response annotation
+      within structural neighborhoods
+    source_data: data/source_data/fig4_source_data.xlsx
+    script: src/qmodor/figures/make_fig4.py
+    output: figures/main/fig4.pdf
+supplementary:
+  source_data: data/source_data/supplementary_tables_source_data.xlsx
