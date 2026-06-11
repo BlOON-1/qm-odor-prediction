@@ -1,0 +1,33 @@
+Repository Licensing Notice
+
+This repository contains multiple content categories that are released for non-commercial research and educational use only.
+
+1. Code
+
+Unless otherwise noted in a specific file or directory, source code, scripts, and configuration files created for this repository are provided for non-commercial research and educational use only.
+
+Copyright (c) 2026 Qihao Ye, Sijin Zhou, Hui Guo, and Jing Hu
+
+Permission is granted to use, copy, and adapt the code in this repository for non-commercial research and educational purposes, provided that proper attribution is given to the repository authors and the associated manuscript. Commercial use, sublicensing for commercial use, and sale of derivative software based on this repository are not permitted without prior written permission from the copyright holders.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+2. Documentation, figures, and repository-generated processed data
+
+Unless otherwise noted, repository documentation, manuscript-supporting source data, figures, and project-generated processed data are intended for release under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+This intention applies only to materials for which the repository contributors hold the necessary rights to release them.
+
+3. Third-party materials and redistribution boundaries
+
+Third-party raw source records, proprietary database content, and any materials whose redistribution is restricted by their original providers are not covered by the non-commercial code notice or the intended CC BY-NC 4.0 release terms in this repository.
+
+This includes, without limitation, content originating from or associated with The Good Scents Company, Leffingwell, PubChem, M2OR, Gaussian, Multiwfn, RDKit, and other third-party resources, except to the extent that a specific item is independently licensed and redistributable by its original rights holder.
+
+Users are responsible for complying with the terms of the original data providers.
+
+4. No claim over third-party rights
+
+This repository does not claim ownership of, or authority to relicense, any third-party trademarks, databases, software, records, or content. Separate licenses, terms of use, and attribution requirements may apply to those resources.

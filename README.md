@@ -1,37 +1,57 @@
-# qm-odor-prediction
-
-Code and processed data for reproducible benchmarking of quantum-mechanical
-descriptor-enhanced molecular representations for multi-label odor prediction
-and structural-neighborhood analyses.
+# Quantum-mechanical descriptors improve odor prediction for structurally similar molecules
 
 ## Paper
-Title:
-Quantum-mechanical descriptors improve odor prediction for structurally similar molecules
 
-## Repository status
-This repository accompanies a manuscript under preparation/submission.
-Data and code will be finalized before publication.
+This repository supports the paper _Quantum-mechanical descriptors improve odor prediction for structurally similar molecules_.
+
+## Repository overview
+
+The repository packages the released data products, analysis scripts, configuration files, and supporting documentation used for benchmark odor prediction, structure-disjoint evaluation, external sensory-panel validation, receptor-consistency analysis, and figure source-data export.
+
+QM descriptors are used here as receptor-related molecular proxies that preserve interaction-relevant physicochemical variation among structurally similar molecules. The repository does not claim that QM descriptors directly explain olfactory receptor mechanisms or receptor combinations.
 
 ## Main contents
-- Benchmark odor dataset with 4,403 odorants and 112 standardized odor descriptors
-- RDKit, ECFP4, quantum-mechanical, and fused RDKit+QM molecular representations
-- Matched multi-model benchmark training scripts
-- Structure-disjoint split construction
-- External structural-neighborhood sensory-panel validation
-- ADCH charge-enhanced graph model analysis
-- Public olfactory-receptor annotation matching and receptor-consistency analysis
-- Source data and scripts for all main figures
+
+- `data/processed/`: benchmark molecule table, 112-label odor matrix, label vocabulary, RDKit descriptor tables, and ECFP4 fingerprints.
+- `data/external_panel/`: 87 external molecules, 60 structural-neighbor pairs, aggregated panel ratings, and the 43-label panel vocabulary.
+- `data/receptor_annotations/` and `results/receptor_consistency/`: processed M2OR matching outputs and receptor-consistency summary tables.
+- `data/source_data/`: source data files for Fig. 1-4.
+- `results/`: released benchmark metrics, structure-disjoint summaries, SHAP ranking output, and model-summary JSON files.
+- `scripts/`, `notebooks/`, `configs/`, and `docs/`: analysis-stage code, configuration, and reproducibility notes.
 
 ## Quick start
-1. Create the environment
-2. Build or download processed data
-3. Reproduce benchmark metrics
-4. Reproduce external validation
-5. Reproduce receptor-consistency analysis
-6. Regenerate main figures
 
-## Data availability
-Describe what is included, what is derived, and what cannot be redistributed.
+Use the environment file provided in this repository.
+
+```bash
+conda env create -f environment.yml
+conda activate qmodor
+pip install -e .
+```
+
+## Reproducing analyses
+
+Analysis scripts and notebooks are organized by analysis stage rather than by a single one-click entry point.
+
+- `scripts/prepare_available_data.py` prepares released benchmark, panel, and source-data tables from curated inputs.
+- `scripts/01_compute_rdkit_features.py` computes RDKit descriptor features.
+- `scripts/03_make_splits.py` and `src/qmodor/splits/` cover split-related utilities.
+- `scripts/07_receptor_consistency_analysis.py` and `notebooks/05_receptor_consistency_check.ipynb` cover receptor-consistency outputs.
+- `notebooks/01_dataset_overview.ipynb` through `notebooks/04_external_panel_validation.ipynb` summarize the released benchmark, descriptor, benchmark-metric, and external-panel assets.
+- `docs/workflow_overview.md` describes the full repository workflow and reproducibility boundaries.
+
+## Data notes
+
+The released benchmark package contains `benchmark_molecules_4495.csv`, `odor_label_vocabulary_112.csv`, and `odor_label_matrix_4495x112.csv`. The external validation package contains `external_molecules_87.csv`, `structural_neighbor_pairs_60.csv`, and `panel_label_vocabulary_43.csv`.
+
+Some upstream information used during dataset construction comes from The Good Scents Company and Leffingwell and may be subject to provider-specific redistribution terms. See `data/raw_manifest/` and `docs/data_availability.md` for release notes and restrictions.
+
+Public olfactory receptor response annotations come from M2OR. Processed receptor matching and consistency tables are released under `data/receptor_annotations/` and `results/receptor_consistency/`.
 
 ## Citation
-Include paper citation after publication.
+
+Please cite the associated paper and the repository metadata in `CITATION.cff` when using this package.
+
+## License
+
+This repository is distributed under the terms described in `LICENSE`.

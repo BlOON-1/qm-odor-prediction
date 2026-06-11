@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software archive."
+title: "qm-odor-prediction: quantum-mechanical descriptor-enhanced molecular representations for odor prediction"
+type: software
+repository-code: "https://github.com/BlOON-1/qm-odor-prediction"
+version: "0.1.0"
+license: "CC-BY-NC-4.0"
+abstract: "This repository provides code, environment specifications, and processed-data documentation for reproducing benchmark odor prediction, structure-neighborhood discrimination, external sensory-panel validation, and orthogonal consistency analysis against public receptor-response annotations using quantum-mechanical descriptor-enhanced molecular representations. The manuscript-aligned release contains 4,495 curated benchmark molecules, 112 standardized odor labels used for modeling, 87 structurally similar external molecules arranged into 60 comparison pairs, and a 43-label sensory vocabulary."
+keywords:
+  - odor prediction
+  - quantum-mechanical descriptors
+  - molecular representation
+  - multi-label classification
+  - olfactory receptors
+  - structural neighborhoods
+  - RDKit
+  - graph neural networks
+authors:
+  - family-names: "Ye"
+    given-names: "Qihao"
+    affiliation: "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+  - family-names: "Zhou"
+    given-names: "Sijin"
+    affiliation: "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+  - family-names: "Guo"
+    given-names: "Hui"
+    affiliation: "Faculty of Flavour Fragrance and Cosmetics, Shanghai Institute of Technology, Shanghai, China"
+  - family-names: "Hu"
+    given-names: "Jing"
+    affiliation: "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+preferred-citation:
+  type: article
+  title: "Quantum-mechanical descriptors improve odor prediction for structurally similar molecules"
+  authors:
+    - family-names: "Ye"
+      given-names: "Qihao"
+    - family-names: "Zhou"
+      given-names: "Sijin"
+    - family-names: "Guo"
+      given-names: "Hui"
+    - family-names: "Hu"
+      given-names: "Jing"
+  year: 2026
+  journal: "Manuscript in preparation"
+notes: >
+  Qihao Ye and Sijin Zhou are co-first authors. Hui Guo and Jing Hu are co-corresponding authors.
+  A DOI will be added after archival release and manuscript publication.

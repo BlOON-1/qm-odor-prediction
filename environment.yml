@@ -1,0 +1,34 @@
+name: qmodor
+channels:
+  - conda-forge
+  - pytorch
+  - pyg
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - openpyxl
+  - pyyaml
+  - tqdm
+  - joblib
+  - networkx
+  - rdkit
+  - xgboost
+  - shap
+  - pytorch
+  - pyg
+  - jupyter
+  - notebook
+  - ipykernel
+  - pytest
+  - pip
+  - pip:
+      - iterative-stratification
+      - pubchempy
+
+# Gaussian, GaussView, and Multiwfn are external software dependencies.
+# They are not installed by this environment file and must be obtained separately
+# according to the terms and licenses of their respective providers.

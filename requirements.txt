@@ -1,0 +1,25 @@
+# Recommended for lightweight pip installation of the core Python stack.
+# For more reliable installation of RDKit and torch-geometric, prefer conda/mamba.
+# The canonical environment specification for reproduction is environment.yml.
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl
+pyyaml
+tqdm
+joblib
+networkx
+rdkit
+xgboost
+shap
+iterative-stratification
+torch
+torch-geometric
+jupyter
+notebook
+ipykernel
+pytest
+pubchempy

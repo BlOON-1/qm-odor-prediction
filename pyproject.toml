@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qmodor"
+version = "0.1.0"
+description = "Utilities for quantum-mechanical descriptor-enhanced odor prediction and structural-neighborhood analysis."
+readme = "docs/workflow_overview.md"
+requires-python = ">=3.10"
+license = { text = "Non-commercial research and educational use only; see LICENSE" }
+authors = [
+  { name = "Qihao Ye" },
+  { name = "Sijin Zhou" },
+  { name = "Hui Guo" },
+  { name = "Jing Hu" }
+]
+keywords = [
+  "odor prediction",
+  "quantum-mechanical descriptors",
+  "molecular representation",
+  "multi-label classification"
+]
+
+[project.urls]
+Homepage = "https://github.com/BlOON-1/qm-odor-prediction"
+Repository = "https://github.com/BlOON-1/qm-odor-prediction"
+Documentation = "https://github.com/BlOON-1/qm-odor-prediction"
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "black", "jupyter"]
+docs = ["mkdocs"]
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra"
+testpaths = ["tests"]
