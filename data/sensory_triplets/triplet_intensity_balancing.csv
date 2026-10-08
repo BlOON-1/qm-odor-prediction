@@ -1,0 +1,256 @@
+Molecule_ID,Molecule_Name_CN,Molecule_Name_EN,CAS,Concentration,Assessor_ID,Intensity_Score,Measure_Type,Selected_Working_Concentration,Source_Column
+C001,乙酸二甲基苄基原酯,Dimethyl benzyl carbinyl acetate,151-05-3,0.5%,,1,reported_score_from_source_matrix,,0.5%强度
+C001,乙酸二甲基苄基原酯,Dimethyl benzyl carbinyl acetate,151-05-3,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C001,乙酸二甲基苄基原酯,Dimethyl benzyl carbinyl acetate,151-05-3,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+C001,乙酸二甲基苄基原酯,Dimethyl benzyl carbinyl acetate,151-05-3,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+C001,乙酸二甲基苄基原酯,Dimethyl benzyl carbinyl acetate,151-05-3,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+C089,丁酸二甲基苄基原酯,Dimethyl benzyl carbinyl butyrate,10094-34-5,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+C089,丁酸二甲基苄基原酯,Dimethyl benzyl carbinyl butyrate,10094-34-5,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C089,丁酸二甲基苄基原酯,Dimethyl benzyl carbinyl butyrate,10094-34-5,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+C089,丁酸二甲基苄基原酯,Dimethyl benzyl carbinyl butyrate,10094-34-5,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+C089,丁酸二甲基苄基原酯,Dimethyl benzyl carbinyl butyrate,10094-34-5,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+C280,高顺式二氢茉莉酮酸,Methyl dihydrojasmonate,24851-98-7,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+C280,高顺式二氢茉莉酮酸,Methyl dihydrojasmonate,24851-98-7,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+C280,高顺式二氢茉莉酮酸,Methyl dihydrojasmonate,24851-98-7,2.0%,,9,reported_score_from_source_matrix,,2.0%强度
+C280,高顺式二氢茉莉酮酸,Methyl dihydrojasmonate,24851-98-7,5.0%,,9,reported_score_from_source_matrix,,5.0%强度
+C280,高顺式二氢茉莉酮酸,Methyl dihydrojasmonate,24851-98-7,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+D022,四氢芳樟醇,Tetrahydrolinalool,78-69-3,0.5%,,0,reported_score_from_source_matrix,,0.5%强度
+D022,四氢芳樟醇,Tetrahydrolinalool,78-69-3,1.0%,,1,reported_score_from_source_matrix,,1.0%强度
+D022,四氢芳樟醇,Tetrahydrolinalool,78-69-3,2.0%,,2,reported_score_from_source_matrix,,2.0%强度
+D022,四氢芳樟醇,Tetrahydrolinalool,78-69-3,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+D022,四氢芳樟醇,Tetrahydrolinalool,78-69-3,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+D048,二甲基庚醇,"2,6-Dimethylheptan-2-ol",13254-34-7,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+D048,二甲基庚醇,"2,6-Dimethylheptan-2-ol",13254-34-7,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+D048,二甲基庚醇,"2,6-Dimethylheptan-2-ol",13254-34-7,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+D048,二甲基庚醇,"2,6-Dimethylheptan-2-ol",13254-34-7,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+D048,二甲基庚醇,"2,6-Dimethylheptan-2-ol",13254-34-7,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+C377,乙酸橙花酯,Neryl acetate,141-12-8,0.5%,,1,reported_score_from_source_matrix,,0.5%强度
+C377,乙酸橙花酯,Neryl acetate,141-12-8,1.0%,,3,reported_score_from_source_matrix,,1.0%强度
+C377,乙酸橙花酯,Neryl acetate,141-12-8,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+C377,乙酸橙花酯,Neryl acetate,141-12-8,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+C377,乙酸橙花酯,Neryl acetate,141-12-8,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+D169,橙花醇,Nerol,106-25-2,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+D169,橙花醇,Nerol,106-25-2,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+D169,橙花醇,Nerol,106-25-2,2.0%,,8,reported_score_from_source_matrix,,2.0%强度
+D169,橙花醇,Nerol,106-25-2,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+D169,橙花醇,Nerol,106-25-2,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+F367,波洁洪醛,Bourgeonal,18127-01-0,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+F367,波洁洪醛,Bourgeonal,18127-01-0,1.0%,,8,reported_score_from_source_matrix,,1.0%强度
+F367,波洁洪醛,Bourgeonal,18127-01-0,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+F367,波洁洪醛,Bourgeonal,18127-01-0,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+F367,波洁洪醛,Bourgeonal,18127-01-0,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+C074,柳酸苄酯,Benzyl salicylate,118-58-1,0.5%,,0,reported_score_from_source_matrix,,0.5%强度
+C074,柳酸苄酯,Benzyl salicylate,118-58-1,1.0%,,2,reported_score_from_source_matrix,,1.0%强度
+C074,柳酸苄酯,Benzyl salicylate,118-58-1,2.0%,,2,reported_score_from_source_matrix,,2.0%强度
+C074,柳酸苄酯,Benzyl salicylate,118-58-1,5.0%,,4,reported_score_from_source_matrix,,5.0%强度
+C074,柳酸苄酯,Benzyl salicylate,118-58-1,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+C268,水杨酸己酯,Hexyl salicylate,6259-76-3,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+C268,水杨酸己酯,Hexyl salicylate,6259-76-3,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C268,水杨酸己酯,Hexyl salicylate,6259-76-3,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+C268,水杨酸己酯,Hexyl salicylate,6259-76-3,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+C268,水杨酸己酯,Hexyl salicylate,6259-76-3,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+A016,803檀香,Sandal cyclohexanol,66068-84-6,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+A016,803檀香,Sandal cyclohexanol,66068-84-6,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+A016,803檀香,Sandal cyclohexanol,66068-84-6,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+A016,803檀香,Sandal cyclohexanol,66068-84-6,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+A016,803檀香,Sandal cyclohexanol,66068-84-6,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+F065,甲基柑青醛,Precyclemone B,52474-60-9,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+F065,甲基柑青醛,Precyclemone B,52474-60-9,1.0%,,3,reported_score_from_source_matrix,,1.0%强度
+F065,甲基柑青醛,Precyclemone B,52474-60-9,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+F065,甲基柑青醛,Precyclemone B,52474-60-9,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+F065,甲基柑青醛,Precyclemone B,52474-60-9,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+C463,乙酸二氢月桂烯酯,Dihydromyrcenyl acetate,53767-93-4,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+C463,乙酸二氢月桂烯酯,Dihydromyrcenyl acetate,53767-93-4,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C463,乙酸二氢月桂烯酯,Dihydromyrcenyl acetate,53767-93-4,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+C463,乙酸二氢月桂烯酯,Dihydromyrcenyl acetate,53767-93-4,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+C463,乙酸二氢月桂烯酯,Dihydromyrcenyl acetate,53767-93-4,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+D024,二甲基苄基原醇,Dimethyl benzyl carbinol,100-86-7,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+D024,二甲基苄基原醇,Dimethyl benzyl carbinol,100-86-7,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+D024,二甲基苄基原醇,Dimethyl benzyl carbinol,100-86-7,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+D024,二甲基苄基原醇,Dimethyl benzyl carbinol,100-86-7,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+D024,二甲基苄基原醇,Dimethyl benzyl carbinol,100-86-7,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+C330,柳酸戊酯,Pentyl salicylate,2050-08-0,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+C330,柳酸戊酯,Pentyl salicylate,2050-08-0,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C330,柳酸戊酯,Pentyl salicylate,2050-08-0,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+C330,柳酸戊酯,Pentyl salicylate,2050-08-0,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+C330,柳酸戊酯,Pentyl salicylate,2050-08-0,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+I259,铃兰吡喃,Florol,63500-71-0,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+I259,铃兰吡喃,Florol,63500-71-0,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+I259,铃兰吡喃,Florol,63500-71-0,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+I259,铃兰吡喃,Florol,63500-71-0,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+I259,铃兰吡喃,Florol,63500-71-0,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+E036,香茅腈,Citronellyl nitrile,51566-62-2,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+E036,香茅腈,Citronellyl nitrile,51566-62-2,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+E036,香茅腈,Citronellyl nitrile,51566-62-2,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+E036,香茅腈,Citronellyl nitrile,51566-62-2,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+E036,香茅腈,Citronellyl nitrile,51566-62-2,10.0%,,9,reported_score_from_source_matrix,,10.0%强度
+C269,异丁酸苯氧基乙酯,Phenoxyethyl isobutyrate,103-60-6,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+C269,异丁酸苯氧基乙酯,Phenoxyethyl isobutyrate,103-60-6,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+C269,异丁酸苯氧基乙酯,Phenoxyethyl isobutyrate,103-60-6,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+C269,异丁酸苯氧基乙酯,Phenoxyethyl isobutyrate,103-60-6,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+C269,异丁酸苯氧基乙酯,Phenoxyethyl isobutyrate,103-60-6,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+C372,香紫苏酯,Sclareolate,0319002-92-1,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+C372,香紫苏酯,Sclareolate,0319002-92-1,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+C372,香紫苏酯,Sclareolate,0319002-92-1,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+C372,香紫苏酯,Sclareolate,0319002-92-1,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+C372,香紫苏酯,Sclareolate,0319002-92-1,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+C319,菠萝酯,Allyl cyclohexanepropionate,2705-87-5,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+C319,菠萝酯,Allyl cyclohexanepropionate,2705-87-5,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+C319,菠萝酯,Allyl cyclohexanepropionate,2705-87-5,2.0%,,8,reported_score_from_source_matrix,,2.0%强度
+C319,菠萝酯,Allyl cyclohexanepropionate,2705-87-5,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+C319,菠萝酯,Allyl cyclohexanepropionate,2705-87-5,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N001,环戊醇,Cyclopentanol,96-41-3,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+N001,环戊醇,Cyclopentanol,96-41-3,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N001,环戊醇,Cyclopentanol,96-41-3,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N001,环戊醇,Cyclopentanol,96-41-3,5.0%,,10,reported_score_from_source_matrix,,5.0%强度
+N001,环戊醇,Cyclopentanol,96-41-3,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N002,环己醇,Cyclohexanol,108-93-0,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N002,环己醇,Cyclohexanol,108-93-0,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N002,环己醇,Cyclohexanol,108-93-0,2.0%,,8,reported_score_from_source_matrix,,2.0%强度
+N002,环己醇,Cyclohexanol,108-93-0,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N002,环己醇,Cyclohexanol,108-93-0,10.0%,,9,reported_score_from_source_matrix,,10.0%强度
+N003,3-甲基-2-丁醇,3-Methylbutan-2-ol,598-75-4,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+N003,3-甲基-2-丁醇,3-Methylbutan-2-ol,598-75-4,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N003,3-甲基-2-丁醇,3-Methylbutan-2-ol,598-75-4,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+N003,3-甲基-2-丁醇,3-Methylbutan-2-ol,598-75-4,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N003,3-甲基-2-丁醇,3-Methylbutan-2-ol,598-75-4,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N004,2-甲基-1-丁醇,2-Methylbutan-1-ol,137-32-6,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N004,2-甲基-1-丁醇,2-Methylbutan-1-ol,137-32-6,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+N004,2-甲基-1-丁醇,2-Methylbutan-1-ol,137-32-6,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N004,2-甲基-1-丁醇,2-Methylbutan-1-ol,137-32-6,5.0%,,4,reported_score_from_source_matrix,,5.0%强度
+N004,2-甲基-1-丁醇,2-Methylbutan-1-ol,137-32-6,10.0%,,9,reported_score_from_source_matrix,,10.0%强度
+N005,己酸异丙酯,Isopropyl hexanoate,2311-46-8,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N005,己酸异丙酯,Isopropyl hexanoate,2311-46-8,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N005,己酸异丙酯,Isopropyl hexanoate,2311-46-8,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N005,己酸异丙酯,Isopropyl hexanoate,2311-46-8,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+N005,己酸异丙酯,Isopropyl hexanoate,2311-46-8,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N006,辛酸异丙酯,Isopropyl octanoate,5458-59-3,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N006,辛酸异丙酯,Isopropyl octanoate,5458-59-3,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N006,辛酸异丙酯,Isopropyl octanoate,5458-59-3,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N006,辛酸异丙酯,Isopropyl octanoate,5458-59-3,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N006,辛酸异丙酯,Isopropyl octanoate,5458-59-3,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N007,甲酸丁酯,Butyl formate,592-84-7,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+N007,甲酸丁酯,Butyl formate,592-84-7,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N007,甲酸丁酯,Butyl formate,592-84-7,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+N007,甲酸丁酯,Butyl formate,592-84-7,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N007,甲酸丁酯,Butyl formate,592-84-7,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+N008,甲酸戊酯,Pentyl formate,638-49-3,0.5%,,7,reported_score_from_source_matrix,,0.5%强度
+N008,甲酸戊酯,Pentyl formate,638-49-3,1.0%,,8,reported_score_from_source_matrix,,1.0%强度
+N008,甲酸戊酯,Pentyl formate,638-49-3,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+N008,甲酸戊酯,Pentyl formate,638-49-3,5.0%,,10,reported_score_from_source_matrix,,5.0%强度
+N008,甲酸戊酯,Pentyl formate,638-49-3,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N009,丙酸异丙酯,Isopropyl propionate,637-78-5,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N009,丙酸异丙酯,Isopropyl propionate,637-78-5,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+N009,丙酸异丙酯,Isopropyl propionate,637-78-5,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N009,丙酸异丙酯,Isopropyl propionate,637-78-5,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+N009,丙酸异丙酯,Isopropyl propionate,637-78-5,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N010,戊酸异丙酯,Isopropyl pentanoate,18362-97-5,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+N010,戊酸异丙酯,Isopropyl pentanoate,18362-97-5,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N010,戊酸异丙酯,Isopropyl pentanoate,18362-97-5,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N010,戊酸异丙酯,Isopropyl pentanoate,18362-97-5,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+N010,戊酸异丙酯,Isopropyl pentanoate,18362-97-5,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+N011,γ-丁内酯,Gamma-butyrolactone,96-48-0,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+N011,γ-丁内酯,Gamma-butyrolactone,96-48-0,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N011,γ-丁内酯,Gamma-butyrolactone,96-48-0,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+N011,γ-丁内酯,Gamma-butyrolactone,96-48-0,5.0%,,4,reported_score_from_source_matrix,,5.0%强度
+N011,γ-丁内酯,Gamma-butyrolactone,96-48-0,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+N012,δ-戊内酯,Delta-valerolactone,542-28-9,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+N012,δ-戊内酯,Delta-valerolactone,542-28-9,1.0%,,3,reported_score_from_source_matrix,,1.0%强度
+N012,δ-戊内酯,Delta-valerolactone,542-28-9,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+N012,δ-戊内酯,Delta-valerolactone,542-28-9,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+N012,δ-戊内酯,Delta-valerolactone,542-28-9,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+N013,环戊烯醇酮丙酸酯,Cyclotene propionate,87-55-8,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N013,环戊烯醇酮丙酸酯,Cyclotene propionate,87-55-8,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N013,环戊烯醇酮丙酸酯,Cyclotene propionate,87-55-8,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+N013,环戊烯醇酮丙酸酯,Cyclotene propionate,87-55-8,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N013,环戊烯醇酮丙酸酯,Cyclotene propionate,87-55-8,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+N014,乙酸十一烯酯,10-Undecenyl acetate,112-19-6,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N014,乙酸十一烯酯,10-Undecenyl acetate,112-19-6,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N014,乙酸十一烯酯,10-Undecenyl acetate,112-19-6,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+N014,乙酸十一烯酯,10-Undecenyl acetate,112-19-6,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N014,乙酸十一烯酯,10-Undecenyl acetate,112-19-6,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N015,乙酸己烯酯,5-Hexenyl acetate,5048-26-0,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N015,乙酸己烯酯,5-Hexenyl acetate,5048-26-0,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N015,乙酸己烯酯,5-Hexenyl acetate,5048-26-0,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N015,乙酸己烯酯,5-Hexenyl acetate,5048-26-0,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N015,乙酸己烯酯,5-Hexenyl acetate,5048-26-0,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N016,苯乙醛,Phenylacetaldehyde,122-78-1,0.5%,,6,reported_score_from_source_matrix,,0.5%强度
+N016,苯乙醛,Phenylacetaldehyde,122-78-1,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N016,苯乙醛,Phenylacetaldehyde,122-78-1,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N016,苯乙醛,Phenylacetaldehyde,122-78-1,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N016,苯乙醛,Phenylacetaldehyde,122-78-1,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N017,3-羟基丙酸苯乙酯（表中Phenethyl lactate）,2-Phenylethyl 3-hydroxypropanoate,10138-63-3,0.5%,,8,reported_score_from_source_matrix,,0.5%强度
+N017,3-羟基丙酸苯乙酯（表中Phenethyl lactate）,2-Phenylethyl 3-hydroxypropanoate,10138-63-3,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N017,3-羟基丙酸苯乙酯（表中Phenethyl lactate）,2-Phenylethyl 3-hydroxypropanoate,10138-63-3,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N017,3-羟基丙酸苯乙酯（表中Phenethyl lactate）,2-Phenylethyl 3-hydroxypropanoate,10138-63-3,5.0%,,9,reported_score_from_source_matrix,,5.0%强度
+N017,3-羟基丙酸苯乙酯（表中Phenethyl lactate）,2-Phenylethyl 3-hydroxypropanoate,10138-63-3,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N018,丁酸苯乙酯,2-Phenylethyl butyrate,103-52-6,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N018,丁酸苯乙酯,2-Phenylethyl butyrate,103-52-6,1.0%,,4,reported_score_from_source_matrix,,1.0%强度
+N018,丁酸苯乙酯,2-Phenylethyl butyrate,103-52-6,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N018,丁酸苯乙酯,2-Phenylethyl butyrate,103-52-6,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N018,丁酸苯乙酯,2-Phenylethyl butyrate,103-52-6,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N019,甲酸异丙酯,Isopropyl formate,625-55-8,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N019,甲酸异丙酯,Isopropyl formate,625-55-8,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+N019,甲酸异丙酯,Isopropyl formate,625-55-8,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+N019,甲酸异丙酯,Isopropyl formate,625-55-8,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+N019,甲酸异丙酯,Isopropyl formate,625-55-8,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N020,壬醛,Nonanal,124-19-6,0.5%,,6,reported_score_from_source_matrix,,0.5%强度
+N020,壬醛,Nonanal,124-19-6,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+N020,壬醛,Nonanal,124-19-6,2.0%,,7,reported_score_from_source_matrix,,2.0%强度
+N020,壬醛,Nonanal,124-19-6,5.0%,,10,reported_score_from_source_matrix,,5.0%强度
+N020,壬醛,Nonanal,124-19-6,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N021,己醛,Hexanal,66-25-1,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N021,己醛,Hexanal,66-25-1,1.0%,,7,reported_score_from_source_matrix,,1.0%强度
+N021,己醛,Hexanal,66-25-1,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N021,己醛,Hexanal,66-25-1,5.0%,,8,reported_score_from_source_matrix,,5.0%强度
+N021,己醛,Hexanal,66-25-1,10.0%,,9,reported_score_from_source_matrix,,10.0%强度
+N022,铃兰醇（Mugetanol）,Mugetanol,63767-86-2,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+N022,铃兰醇（Mugetanol）,Mugetanol,63767-86-2,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N022,铃兰醇（Mugetanol）,Mugetanol,63767-86-2,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+N022,铃兰醇（Mugetanol）,Mugetanol,63767-86-2,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N022,铃兰醇（Mugetanol）,Mugetanol,63767-86-2,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N023,己酸丙酯,Propyl hexanoate,626-77-7,0.5%,,5,reported_score_from_source_matrix,,0.5%强度
+N023,己酸丙酯,Propyl hexanoate,626-77-7,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N023,己酸丙酯,Propyl hexanoate,626-77-7,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N023,己酸丙酯,Propyl hexanoate,626-77-7,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N023,己酸丙酯,Propyl hexanoate,626-77-7,10.0%,,8,reported_score_from_source_matrix,,10.0%强度
+N024,癸酸丙酯,Propyl decanoate,30673-60-0,0.5%,,1,reported_score_from_source_matrix,,0.5%强度
+N024,癸酸丙酯,Propyl decanoate,30673-60-0,1.0%,,3,reported_score_from_source_matrix,,1.0%强度
+N024,癸酸丙酯,Propyl decanoate,30673-60-0,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+N024,癸酸丙酯,Propyl decanoate,30673-60-0,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N024,癸酸丙酯,Propyl decanoate,30673-60-0,10.0%,,5,reported_score_from_source_matrix,,10.0%强度
+N025,苯乙基异戊醚,Phenethyl isoamyl ether,56011-02-0,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+N025,苯乙基异戊醚,Phenethyl isoamyl ether,56011-02-0,1.0%,,3,reported_score_from_source_matrix,,1.0%强度
+N025,苯乙基异戊醚,Phenethyl isoamyl ether,56011-02-0,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+N025,苯乙基异戊醚,Phenethyl isoamyl ether,56011-02-0,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N025,苯乙基异戊醚,Phenethyl isoamyl ether,56011-02-0,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N026,戊酸乙酯,Ethyl pentanoate,539-82-2,0.5%,,3,reported_score_from_source_matrix,,0.5%强度
+N026,戊酸乙酯,Ethyl pentanoate,539-82-2,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N026,戊酸乙酯,Ethyl pentanoate,539-82-2,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N026,戊酸乙酯,Ethyl pentanoate,539-82-2,5.0%,,5,reported_score_from_source_matrix,,5.0%强度
+N026,戊酸乙酯,Ethyl pentanoate,539-82-2,10.0%,,6,reported_score_from_source_matrix,,10.0%强度
+N027,癸酸乙酯,Ethyl decanoate,110-38-3,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N027,癸酸乙酯,Ethyl decanoate,110-38-3,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N027,癸酸乙酯,Ethyl decanoate,110-38-3,2.0%,,5,reported_score_from_source_matrix,,2.0%强度
+N027,癸酸乙酯,Ethyl decanoate,110-38-3,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N027,癸酸乙酯,Ethyl decanoate,110-38-3,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N028,3-乙酰氧基丁酸甲酯,Methyl 3-acetoxybutanoate,89422-42-4,0.5%,,2,reported_score_from_source_matrix,,0.5%强度
+N028,3-乙酰氧基丁酸甲酯,Methyl 3-acetoxybutanoate,89422-42-4,1.0%,,5,reported_score_from_source_matrix,,1.0%强度
+N028,3-乙酰氧基丁酸甲酯,Methyl 3-acetoxybutanoate,89422-42-4,2.0%,,4,reported_score_from_source_matrix,,2.0%强度
+N028,3-乙酰氧基丁酸甲酯,Methyl 3-acetoxybutanoate,89422-42-4,5.0%,,6,reported_score_from_source_matrix,,5.0%强度
+N028,3-乙酰氧基丁酸甲酯,Methyl 3-acetoxybutanoate,89422-42-4,10.0%,,7,reported_score_from_source_matrix,,10.0%强度
+N029,1-己醇,1-Hexanol,111-27-3,0.5%,,6,reported_score_from_source_matrix,,0.5%强度
+N029,1-己醇,1-Hexanol,111-27-3,1.0%,,8,reported_score_from_source_matrix,,1.0%强度
+N029,1-己醇,1-Hexanol,111-27-3,2.0%,,8,reported_score_from_source_matrix,,2.0%强度
+N029,1-己醇,1-Hexanol,111-27-3,5.0%,,10,reported_score_from_source_matrix,,5.0%强度
+N029,1-己醇,1-Hexanol,111-27-3,10.0%,,9,reported_score_from_source_matrix,,10.0%强度
+N030,1-戊醇,1-Pentanol,71-41-0,0.5%,,7,reported_score_from_source_matrix,,0.5%强度
+N030,1-戊醇,1-Pentanol,71-41-0,1.0%,,8,reported_score_from_source_matrix,,1.0%强度
+N030,1-戊醇,1-Pentanol,71-41-0,2.0%,,8,reported_score_from_source_matrix,,2.0%强度
+N030,1-戊醇,1-Pentanol,71-41-0,5.0%,,9,reported_score_from_source_matrix,,5.0%强度
+N030,1-戊醇,1-Pentanol,71-41-0,10.0%,,10,reported_score_from_source_matrix,,10.0%强度
+N031,丙二酸二戊酯,Dipentyl malonate,20602-31-7,0.5%,,4,reported_score_from_source_matrix,,0.5%强度
+N031,丙二酸二戊酯,Dipentyl malonate,20602-31-7,1.0%,,6,reported_score_from_source_matrix,,1.0%强度
+N031,丙二酸二戊酯,Dipentyl malonate,20602-31-7,2.0%,,6,reported_score_from_source_matrix,,2.0%强度
+N031,丙二酸二戊酯,Dipentyl malonate,20602-31-7,5.0%,,7,reported_score_from_source_matrix,,5.0%强度
+N031,丙二酸二戊酯,Dipentyl malonate,20602-31-7,10.0%,,9,reported_score_from_source_matrix,,10.0%强度

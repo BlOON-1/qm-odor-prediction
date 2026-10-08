@@ -1,0 +1,391 @@
+Triplet_ID,Assessor_ID,Response_Code,Response_Category,Source_Triplet_Label,Source_Assessor_Column
+1,Assessor_01,1,A-P similar; A-S dissimilar,combo1,evaluator1
+1,Assessor_02,1,A-P similar; A-S dissimilar,combo1,evaluator2
+1,Assessor_03,1,A-P similar; A-S dissimilar,combo1,evaluator3
+1,Assessor_04,2,A-S similar; A-P dissimilar,combo1,evaluator4
+1,Assessor_05,1,A-P similar; A-S dissimilar,combo1,evaluator5
+1,Assessor_06,1,A-P similar; A-S dissimilar,combo1,evaluator6
+1,Assessor_07,1,A-P similar; A-S dissimilar,combo1,evaluator7
+1,Assessor_08,1,A-P similar; A-S dissimilar,combo1,evaluator8
+1,Assessor_09,1,A-P similar; A-S dissimilar,combo1,evaluator9
+1,Assessor_10,1,A-P similar; A-S dissimilar,combo1,evaluator10
+1,Assessor_11,4,Both dissimilar,combo1,evaluator11
+1,Assessor_12,1,A-P similar; A-S dissimilar,combo1,evaluator12
+1,Assessor_13,1,A-P similar; A-S dissimilar,combo1,evaluator13
+2,Assessor_01,1,A-P similar; A-S dissimilar,combo2,evaluator1
+2,Assessor_02,2,A-S similar; A-P dissimilar,combo2,evaluator2
+2,Assessor_03,1,A-P similar; A-S dissimilar,combo2,evaluator3
+2,Assessor_04,1,A-P similar; A-S dissimilar,combo2,evaluator4
+2,Assessor_05,1,A-P similar; A-S dissimilar,combo2,evaluator5
+2,Assessor_06,1,A-P similar; A-S dissimilar,combo2,evaluator6
+2,Assessor_07,2,A-S similar; A-P dissimilar,combo2,evaluator7
+2,Assessor_08,1,A-P similar; A-S dissimilar,combo2,evaluator8
+2,Assessor_09,1,A-P similar; A-S dissimilar,combo2,evaluator9
+2,Assessor_10,1,A-P similar; A-S dissimilar,combo2,evaluator10
+2,Assessor_11,1,A-P similar; A-S dissimilar,combo2,evaluator11
+2,Assessor_12,1,A-P similar; A-S dissimilar,combo2,evaluator12
+2,Assessor_13,4,Both dissimilar,combo2,evaluator13
+3,Assessor_01,4,Both dissimilar,combo3,evaluator1
+3,Assessor_02,1,A-P similar; A-S dissimilar,combo3,evaluator2
+3,Assessor_03,2,A-S similar; A-P dissimilar,combo3,evaluator3
+3,Assessor_04,1,A-P similar; A-S dissimilar,combo3,evaluator4
+3,Assessor_05,1,A-P similar; A-S dissimilar,combo3,evaluator5
+3,Assessor_06,1,A-P similar; A-S dissimilar,combo3,evaluator6
+3,Assessor_07,1,A-P similar; A-S dissimilar,combo3,evaluator7
+3,Assessor_08,1,A-P similar; A-S dissimilar,combo3,evaluator8
+3,Assessor_09,1,A-P similar; A-S dissimilar,combo3,evaluator9
+3,Assessor_10,1,A-P similar; A-S dissimilar,combo3,evaluator10
+3,Assessor_11,4,Both dissimilar,combo3,evaluator11
+3,Assessor_12,1,A-P similar; A-S dissimilar,combo3,evaluator12
+3,Assessor_13,1,A-P similar; A-S dissimilar,combo3,evaluator13
+4,Assessor_01,1,A-P similar; A-S dissimilar,combo4,evaluator1
+4,Assessor_02,3,Both similar,combo4,evaluator2
+4,Assessor_03,1,A-P similar; A-S dissimilar,combo4,evaluator3
+4,Assessor_04,1,A-P similar; A-S dissimilar,combo4,evaluator4
+4,Assessor_05,1,A-P similar; A-S dissimilar,combo4,evaluator5
+4,Assessor_06,1,A-P similar; A-S dissimilar,combo4,evaluator6
+4,Assessor_07,1,A-P similar; A-S dissimilar,combo4,evaluator7
+4,Assessor_08,2,A-S similar; A-P dissimilar,combo4,evaluator8
+4,Assessor_09,1,A-P similar; A-S dissimilar,combo4,evaluator9
+4,Assessor_10,1,A-P similar; A-S dissimilar,combo4,evaluator10
+4,Assessor_11,1,A-P similar; A-S dissimilar,combo4,evaluator11
+4,Assessor_12,1,A-P similar; A-S dissimilar,combo4,evaluator12
+4,Assessor_13,2,A-S similar; A-P dissimilar,combo4,evaluator13
+5,Assessor_01,1,A-P similar; A-S dissimilar,combo5,evaluator1
+5,Assessor_02,1,A-P similar; A-S dissimilar,combo5,evaluator2
+5,Assessor_03,1,A-P similar; A-S dissimilar,combo5,evaluator3
+5,Assessor_04,3,Both similar,combo5,evaluator4
+5,Assessor_05,1,A-P similar; A-S dissimilar,combo5,evaluator5
+5,Assessor_06,4,Both dissimilar,combo5,evaluator6
+5,Assessor_07,1,A-P similar; A-S dissimilar,combo5,evaluator7
+5,Assessor_08,1,A-P similar; A-S dissimilar,combo5,evaluator8
+5,Assessor_09,1,A-P similar; A-S dissimilar,combo5,evaluator9
+5,Assessor_10,2,A-S similar; A-P dissimilar,combo5,evaluator10
+5,Assessor_11,1,A-P similar; A-S dissimilar,combo5,evaluator11
+5,Assessor_12,2,A-S similar; A-P dissimilar,combo5,evaluator12
+5,Assessor_13,1,A-P similar; A-S dissimilar,combo5,evaluator13
+6,Assessor_01,1,A-P similar; A-S dissimilar,combo6,evaluator1
+6,Assessor_02,1,A-P similar; A-S dissimilar,combo6,evaluator2
+6,Assessor_03,2,A-S similar; A-P dissimilar,combo6,evaluator3
+6,Assessor_04,1,A-P similar; A-S dissimilar,combo6,evaluator4
+6,Assessor_05,1,A-P similar; A-S dissimilar,combo6,evaluator5
+6,Assessor_06,1,A-P similar; A-S dissimilar,combo6,evaluator6
+6,Assessor_07,4,Both dissimilar,combo6,evaluator7
+6,Assessor_08,1,A-P similar; A-S dissimilar,combo6,evaluator8
+6,Assessor_09,1,A-P similar; A-S dissimilar,combo6,evaluator9
+6,Assessor_10,1,A-P similar; A-S dissimilar,combo6,evaluator10
+6,Assessor_11,3,Both similar,combo6,evaluator11
+6,Assessor_12,1,A-P similar; A-S dissimilar,combo6,evaluator12
+6,Assessor_13,1,A-P similar; A-S dissimilar,combo6,evaluator13
+7,Assessor_01,3,Both similar,combo7,evaluator1
+7,Assessor_02,1,A-P similar; A-S dissimilar,combo7,evaluator2
+7,Assessor_03,1,A-P similar; A-S dissimilar,combo7,evaluator3
+7,Assessor_04,2,A-S similar; A-P dissimilar,combo7,evaluator4
+7,Assessor_05,4,Both dissimilar,combo7,evaluator5
+7,Assessor_06,1,A-P similar; A-S dissimilar,combo7,evaluator6
+7,Assessor_07,1,A-P similar; A-S dissimilar,combo7,evaluator7
+7,Assessor_08,1,A-P similar; A-S dissimilar,combo7,evaluator8
+7,Assessor_09,2,A-S similar; A-P dissimilar,combo7,evaluator9
+7,Assessor_10,1,A-P similar; A-S dissimilar,combo7,evaluator10
+7,Assessor_11,1,A-P similar; A-S dissimilar,combo7,evaluator11
+7,Assessor_12,1,A-P similar; A-S dissimilar,combo7,evaluator12
+7,Assessor_13,1,A-P similar; A-S dissimilar,combo7,evaluator13
+8,Assessor_01,1,A-P similar; A-S dissimilar,combo8,evaluator1
+8,Assessor_02,2,A-S similar; A-P dissimilar,combo8,evaluator2
+8,Assessor_03,1,A-P similar; A-S dissimilar,combo8,evaluator3
+8,Assessor_04,2,A-S similar; A-P dissimilar,combo8,evaluator4
+8,Assessor_05,1,A-P similar; A-S dissimilar,combo8,evaluator5
+8,Assessor_06,1,A-P similar; A-S dissimilar,combo8,evaluator6
+8,Assessor_07,1,A-P similar; A-S dissimilar,combo8,evaluator7
+8,Assessor_08,4,Both dissimilar,combo8,evaluator8
+8,Assessor_09,1,A-P similar; A-S dissimilar,combo8,evaluator9
+8,Assessor_10,1,A-P similar; A-S dissimilar,combo8,evaluator10
+8,Assessor_11,2,A-S similar; A-P dissimilar,combo8,evaluator11
+8,Assessor_12,1,A-P similar; A-S dissimilar,combo8,evaluator12
+8,Assessor_13,3,Both similar,combo8,evaluator13
+9,Assessor_01,1,A-P similar; A-S dissimilar,combo9,evaluator1
+9,Assessor_02,1,A-P similar; A-S dissimilar,combo9,evaluator2
+9,Assessor_03,2,A-S similar; A-P dissimilar,combo9,evaluator3
+9,Assessor_04,1,A-P similar; A-S dissimilar,combo9,evaluator4
+9,Assessor_05,4,Both dissimilar,combo9,evaluator5
+9,Assessor_06,2,A-S similar; A-P dissimilar,combo9,evaluator6
+9,Assessor_07,1,A-P similar; A-S dissimilar,combo9,evaluator7
+9,Assessor_08,1,A-P similar; A-S dissimilar,combo9,evaluator8
+9,Assessor_09,1,A-P similar; A-S dissimilar,combo9,evaluator9
+9,Assessor_10,2,A-S similar; A-P dissimilar,combo9,evaluator10
+9,Assessor_11,1,A-P similar; A-S dissimilar,combo9,evaluator11
+9,Assessor_12,1,A-P similar; A-S dissimilar,combo9,evaluator12
+9,Assessor_13,2,A-S similar; A-P dissimilar,combo9,evaluator13
+10,Assessor_01,2,A-S similar; A-P dissimilar,combo10,evaluator1
+10,Assessor_02,1,A-P similar; A-S dissimilar,combo10,evaluator2
+10,Assessor_03,1,A-P similar; A-S dissimilar,combo10,evaluator3
+10,Assessor_04,1,A-P similar; A-S dissimilar,combo10,evaluator4
+10,Assessor_05,1,A-P similar; A-S dissimilar,combo10,evaluator5
+10,Assessor_06,1,A-P similar; A-S dissimilar,combo10,evaluator6
+10,Assessor_07,1,A-P similar; A-S dissimilar,combo10,evaluator7
+10,Assessor_08,1,A-P similar; A-S dissimilar,combo10,evaluator8
+10,Assessor_09,1,A-P similar; A-S dissimilar,combo10,evaluator9
+10,Assessor_10,1,A-P similar; A-S dissimilar,combo10,evaluator10
+10,Assessor_11,2,A-S similar; A-P dissimilar,combo10,evaluator11
+10,Assessor_12,1,A-P similar; A-S dissimilar,combo10,evaluator12
+10,Assessor_13,1,A-P similar; A-S dissimilar,combo10,evaluator13
+11,Assessor_01,1,A-P similar; A-S dissimilar,combo11,evaluator1
+11,Assessor_02,2,A-S similar; A-P dissimilar,combo11,evaluator2
+11,Assessor_03,1,A-P similar; A-S dissimilar,combo11,evaluator3
+11,Assessor_04,1,A-P similar; A-S dissimilar,combo11,evaluator4
+11,Assessor_05,4,Both dissimilar,combo11,evaluator5
+11,Assessor_06,1,A-P similar; A-S dissimilar,combo11,evaluator6
+11,Assessor_07,1,A-P similar; A-S dissimilar,combo11,evaluator7
+11,Assessor_08,2,A-S similar; A-P dissimilar,combo11,evaluator8
+11,Assessor_09,1,A-P similar; A-S dissimilar,combo11,evaluator9
+11,Assessor_10,1,A-P similar; A-S dissimilar,combo11,evaluator10
+11,Assessor_11,1,A-P similar; A-S dissimilar,combo11,evaluator11
+11,Assessor_12,4,Both dissimilar,combo11,evaluator12
+11,Assessor_13,1,A-P similar; A-S dissimilar,combo11,evaluator13
+12,Assessor_01,2,A-S similar; A-P dissimilar,combo12,evaluator1
+12,Assessor_02,1,A-P similar; A-S dissimilar,combo12,evaluator2
+12,Assessor_03,1,A-P similar; A-S dissimilar,combo12,evaluator3
+12,Assessor_04,1,A-P similar; A-S dissimilar,combo12,evaluator4
+12,Assessor_05,1,A-P similar; A-S dissimilar,combo12,evaluator5
+12,Assessor_06,2,A-S similar; A-P dissimilar,combo12,evaluator6
+12,Assessor_07,1,A-P similar; A-S dissimilar,combo12,evaluator7
+12,Assessor_08,1,A-P similar; A-S dissimilar,combo12,evaluator8
+12,Assessor_09,2,A-S similar; A-P dissimilar,combo12,evaluator9
+12,Assessor_10,1,A-P similar; A-S dissimilar,combo12,evaluator10
+12,Assessor_11,1,A-P similar; A-S dissimilar,combo12,evaluator11
+12,Assessor_12,2,A-S similar; A-P dissimilar,combo12,evaluator12
+12,Assessor_13,1,A-P similar; A-S dissimilar,combo12,evaluator13
+13,Assessor_01,1,A-P similar; A-S dissimilar,combo13,evaluator1
+13,Assessor_02,4,Both dissimilar,combo13,evaluator2
+13,Assessor_03,1,A-P similar; A-S dissimilar,combo13,evaluator3
+13,Assessor_04,1,A-P similar; A-S dissimilar,combo13,evaluator4
+13,Assessor_05,2,A-S similar; A-P dissimilar,combo13,evaluator5
+13,Assessor_06,1,A-P similar; A-S dissimilar,combo13,evaluator6
+13,Assessor_07,1,A-P similar; A-S dissimilar,combo13,evaluator7
+13,Assessor_08,1,A-P similar; A-S dissimilar,combo13,evaluator8
+13,Assessor_09,1,A-P similar; A-S dissimilar,combo13,evaluator9
+13,Assessor_10,1,A-P similar; A-S dissimilar,combo13,evaluator10
+13,Assessor_11,1,A-P similar; A-S dissimilar,combo13,evaluator11
+13,Assessor_12,1,A-P similar; A-S dissimilar,combo13,evaluator12
+13,Assessor_13,1,A-P similar; A-S dissimilar,combo13,evaluator13
+14,Assessor_01,1,A-P similar; A-S dissimilar,combo14,evaluator1
+14,Assessor_02,2,A-S similar; A-P dissimilar,combo14,evaluator2
+14,Assessor_03,1,A-P similar; A-S dissimilar,combo14,evaluator3
+14,Assessor_04,4,Both dissimilar,combo14,evaluator4
+14,Assessor_05,1,A-P similar; A-S dissimilar,combo14,evaluator5
+14,Assessor_06,1,A-P similar; A-S dissimilar,combo14,evaluator6
+14,Assessor_07,1,A-P similar; A-S dissimilar,combo14,evaluator7
+14,Assessor_08,4,Both dissimilar,combo14,evaluator8
+14,Assessor_09,1,A-P similar; A-S dissimilar,combo14,evaluator9
+14,Assessor_10,1,A-P similar; A-S dissimilar,combo14,evaluator10
+14,Assessor_11,1,A-P similar; A-S dissimilar,combo14,evaluator11
+14,Assessor_12,1,A-P similar; A-S dissimilar,combo14,evaluator12
+14,Assessor_13,1,A-P similar; A-S dissimilar,combo14,evaluator13
+15,Assessor_01,1,A-P similar; A-S dissimilar,combo15,evaluator1
+15,Assessor_02,4,Both dissimilar,combo15,evaluator2
+15,Assessor_03,1,A-P similar; A-S dissimilar,combo15,evaluator3
+15,Assessor_04,1,A-P similar; A-S dissimilar,combo15,evaluator4
+15,Assessor_05,2,A-S similar; A-P dissimilar,combo15,evaluator5
+15,Assessor_06,1,A-P similar; A-S dissimilar,combo15,evaluator6
+15,Assessor_07,2,A-S similar; A-P dissimilar,combo15,evaluator7
+15,Assessor_08,1,A-P similar; A-S dissimilar,combo15,evaluator8
+15,Assessor_09,1,A-P similar; A-S dissimilar,combo15,evaluator9
+15,Assessor_10,2,A-S similar; A-P dissimilar,combo15,evaluator10
+15,Assessor_11,1,A-P similar; A-S dissimilar,combo15,evaluator11
+15,Assessor_12,1,A-P similar; A-S dissimilar,combo15,evaluator12
+15,Assessor_13,4,Both dissimilar,combo15,evaluator13
+16,Assessor_01,2,A-S similar; A-P dissimilar,combo16,evaluator1
+16,Assessor_02,1,A-P similar; A-S dissimilar,combo16,evaluator2
+16,Assessor_03,3,Both similar,combo16,evaluator3
+16,Assessor_04,1,A-P similar; A-S dissimilar,combo16,evaluator4
+16,Assessor_05,4,Both dissimilar,combo16,evaluator5
+16,Assessor_06,2,A-S similar; A-P dissimilar,combo16,evaluator6
+16,Assessor_07,1,A-P similar; A-S dissimilar,combo16,evaluator7
+16,Assessor_08,1,A-P similar; A-S dissimilar,combo16,evaluator8
+16,Assessor_09,3,Both similar,combo16,evaluator9
+16,Assessor_10,1,A-P similar; A-S dissimilar,combo16,evaluator10
+16,Assessor_11,2,A-S similar; A-P dissimilar,combo16,evaluator11
+16,Assessor_12,1,A-P similar; A-S dissimilar,combo16,evaluator12
+16,Assessor_13,2,A-S similar; A-P dissimilar,combo16,evaluator13
+17,Assessor_01,1,A-P similar; A-S dissimilar,combo17,evaluator1
+17,Assessor_02,1,A-P similar; A-S dissimilar,combo17,evaluator2
+17,Assessor_03,2,A-S similar; A-P dissimilar,combo17,evaluator3
+17,Assessor_04,1,A-P similar; A-S dissimilar,combo17,evaluator4
+17,Assessor_05,1,A-P similar; A-S dissimilar,combo17,evaluator5
+17,Assessor_06,1,A-P similar; A-S dissimilar,combo17,evaluator6
+17,Assessor_07,3,Both similar,combo17,evaluator7
+17,Assessor_08,1,A-P similar; A-S dissimilar,combo17,evaluator8
+17,Assessor_09,1,A-P similar; A-S dissimilar,combo17,evaluator9
+17,Assessor_10,4,Both dissimilar,combo17,evaluator10
+17,Assessor_11,1,A-P similar; A-S dissimilar,combo17,evaluator11
+17,Assessor_12,1,A-P similar; A-S dissimilar,combo17,evaluator12
+17,Assessor_13,1,A-P similar; A-S dissimilar,combo17,evaluator13
+18,Assessor_01,4,Both dissimilar,combo18,evaluator1
+18,Assessor_02,1,A-P similar; A-S dissimilar,combo18,evaluator2
+18,Assessor_03,1,A-P similar; A-S dissimilar,combo18,evaluator3
+18,Assessor_04,1,A-P similar; A-S dissimilar,combo18,evaluator4
+18,Assessor_05,3,Both similar,combo18,evaluator5
+18,Assessor_06,2,A-S similar; A-P dissimilar,combo18,evaluator6
+18,Assessor_07,1,A-P similar; A-S dissimilar,combo18,evaluator7
+18,Assessor_08,1,A-P similar; A-S dissimilar,combo18,evaluator8
+18,Assessor_09,1,A-P similar; A-S dissimilar,combo18,evaluator9
+18,Assessor_10,1,A-P similar; A-S dissimilar,combo18,evaluator10
+18,Assessor_11,1,A-P similar; A-S dissimilar,combo18,evaluator11
+18,Assessor_12,2,A-S similar; A-P dissimilar,combo18,evaluator12
+18,Assessor_13,1,A-P similar; A-S dissimilar,combo18,evaluator13
+19,Assessor_01,1,A-P similar; A-S dissimilar,combo19,evaluator1
+19,Assessor_02,1,A-P similar; A-S dissimilar,combo19,evaluator2
+19,Assessor_03,1,A-P similar; A-S dissimilar,combo19,evaluator3
+19,Assessor_04,1,A-P similar; A-S dissimilar,combo19,evaluator4
+19,Assessor_05,1,A-P similar; A-S dissimilar,combo19,evaluator5
+19,Assessor_06,2,A-S similar; A-P dissimilar,combo19,evaluator6
+19,Assessor_07,1,A-P similar; A-S dissimilar,combo19,evaluator7
+19,Assessor_08,1,A-P similar; A-S dissimilar,combo19,evaluator8
+19,Assessor_09,1,A-P similar; A-S dissimilar,combo19,evaluator9
+19,Assessor_10,1,A-P similar; A-S dissimilar,combo19,evaluator10
+19,Assessor_11,1,A-P similar; A-S dissimilar,combo19,evaluator11
+19,Assessor_12,1,A-P similar; A-S dissimilar,combo19,evaluator12
+19,Assessor_13,1,A-P similar; A-S dissimilar,combo19,evaluator13
+20,Assessor_01,2,A-S similar; A-P dissimilar,combo20,evaluator1
+20,Assessor_02,1,A-P similar; A-S dissimilar,combo20,evaluator2
+20,Assessor_03,1,A-P similar; A-S dissimilar,combo20,evaluator3
+20,Assessor_04,4,Both dissimilar,combo20,evaluator4
+20,Assessor_05,1,A-P similar; A-S dissimilar,combo20,evaluator5
+20,Assessor_06,1,A-P similar; A-S dissimilar,combo20,evaluator6
+20,Assessor_07,1,A-P similar; A-S dissimilar,combo20,evaluator7
+20,Assessor_08,1,A-P similar; A-S dissimilar,combo20,evaluator8
+20,Assessor_09,1,A-P similar; A-S dissimilar,combo20,evaluator9
+20,Assessor_10,1,A-P similar; A-S dissimilar,combo20,evaluator10
+20,Assessor_11,1,A-P similar; A-S dissimilar,combo20,evaluator11
+20,Assessor_12,2,A-S similar; A-P dissimilar,combo20,evaluator12
+20,Assessor_13,1,A-P similar; A-S dissimilar,combo20,evaluator13
+21,Assessor_01,1,A-P similar; A-S dissimilar,combo21,evaluator1
+21,Assessor_02,2,A-S similar; A-P dissimilar,combo21,evaluator2
+21,Assessor_03,1,A-P similar; A-S dissimilar,combo21,evaluator3
+21,Assessor_04,1,A-P similar; A-S dissimilar,combo21,evaluator4
+21,Assessor_05,1,A-P similar; A-S dissimilar,combo21,evaluator5
+21,Assessor_06,2,A-S similar; A-P dissimilar,combo21,evaluator6
+21,Assessor_07,1,A-P similar; A-S dissimilar,combo21,evaluator7
+21,Assessor_08,1,A-P similar; A-S dissimilar,combo21,evaluator8
+21,Assessor_09,4,Both dissimilar,combo21,evaluator9
+21,Assessor_10,1,A-P similar; A-S dissimilar,combo21,evaluator10
+21,Assessor_11,1,A-P similar; A-S dissimilar,combo21,evaluator11
+21,Assessor_12,1,A-P similar; A-S dissimilar,combo21,evaluator12
+21,Assessor_13,2,A-S similar; A-P dissimilar,combo21,evaluator13
+22,Assessor_01,1,A-P similar; A-S dissimilar,combo22,evaluator1
+22,Assessor_02,1,A-P similar; A-S dissimilar,combo22,evaluator2
+22,Assessor_03,2,A-S similar; A-P dissimilar,combo22,evaluator3
+22,Assessor_04,1,A-P similar; A-S dissimilar,combo22,evaluator4
+22,Assessor_05,2,A-S similar; A-P dissimilar,combo22,evaluator5
+22,Assessor_06,1,A-P similar; A-S dissimilar,combo22,evaluator6
+22,Assessor_07,1,A-P similar; A-S dissimilar,combo22,evaluator7
+22,Assessor_08,1,A-P similar; A-S dissimilar,combo22,evaluator8
+22,Assessor_09,1,A-P similar; A-S dissimilar,combo22,evaluator9
+22,Assessor_10,1,A-P similar; A-S dissimilar,combo22,evaluator10
+22,Assessor_11,1,A-P similar; A-S dissimilar,combo22,evaluator11
+22,Assessor_12,1,A-P similar; A-S dissimilar,combo22,evaluator12
+22,Assessor_13,1,A-P similar; A-S dissimilar,combo22,evaluator13
+23,Assessor_01,2,A-S similar; A-P dissimilar,combo23,evaluator1
+23,Assessor_02,1,A-P similar; A-S dissimilar,combo23,evaluator2
+23,Assessor_03,1,A-P similar; A-S dissimilar,combo23,evaluator3
+23,Assessor_04,1,A-P similar; A-S dissimilar,combo23,evaluator4
+23,Assessor_05,1,A-P similar; A-S dissimilar,combo23,evaluator5
+23,Assessor_06,1,A-P similar; A-S dissimilar,combo23,evaluator6
+23,Assessor_07,2,A-S similar; A-P dissimilar,combo23,evaluator7
+23,Assessor_08,3,Both similar,combo23,evaluator8
+23,Assessor_09,1,A-P similar; A-S dissimilar,combo23,evaluator9
+23,Assessor_10,4,Both dissimilar,combo23,evaluator10
+23,Assessor_11,1,A-P similar; A-S dissimilar,combo23,evaluator11
+23,Assessor_12,1,A-P similar; A-S dissimilar,combo23,evaluator12
+23,Assessor_13,4,Both dissimilar,combo23,evaluator13
+24,Assessor_01,1,A-P similar; A-S dissimilar,combo24,evaluator1
+24,Assessor_02,2,A-S similar; A-P dissimilar,combo24,evaluator2
+24,Assessor_03,1,A-P similar; A-S dissimilar,combo24,evaluator3
+24,Assessor_04,3,Both similar,combo24,evaluator4
+24,Assessor_05,1,A-P similar; A-S dissimilar,combo24,evaluator5
+24,Assessor_06,2,A-S similar; A-P dissimilar,combo24,evaluator6
+24,Assessor_07,1,A-P similar; A-S dissimilar,combo24,evaluator7
+24,Assessor_08,1,A-P similar; A-S dissimilar,combo24,evaluator8
+24,Assessor_09,1,A-P similar; A-S dissimilar,combo24,evaluator9
+24,Assessor_10,1,A-P similar; A-S dissimilar,combo24,evaluator10
+24,Assessor_11,1,A-P similar; A-S dissimilar,combo24,evaluator11
+24,Assessor_12,3,Both similar,combo24,evaluator12
+24,Assessor_13,1,A-P similar; A-S dissimilar,combo24,evaluator13
+25,Assessor_01,1,A-P similar; A-S dissimilar,combo25,evaluator1
+25,Assessor_02,1,A-P similar; A-S dissimilar,combo25,evaluator2
+25,Assessor_03,2,A-S similar; A-P dissimilar,combo25,evaluator3
+25,Assessor_04,1,A-P similar; A-S dissimilar,combo25,evaluator4
+25,Assessor_05,1,A-P similar; A-S dissimilar,combo25,evaluator5
+25,Assessor_06,1,A-P similar; A-S dissimilar,combo25,evaluator6
+25,Assessor_07,1,A-P similar; A-S dissimilar,combo25,evaluator7
+25,Assessor_08,1,A-P similar; A-S dissimilar,combo25,evaluator8
+25,Assessor_09,4,Both dissimilar,combo25,evaluator9
+25,Assessor_10,1,A-P similar; A-S dissimilar,combo25,evaluator10
+25,Assessor_11,1,A-P similar; A-S dissimilar,combo25,evaluator11
+25,Assessor_12,1,A-P similar; A-S dissimilar,combo25,evaluator12
+25,Assessor_13,4,Both dissimilar,combo25,evaluator13
+26,Assessor_01,2,A-S similar; A-P dissimilar,combo26,evaluator1
+26,Assessor_02,1,A-P similar; A-S dissimilar,combo26,evaluator2
+26,Assessor_03,1,A-P similar; A-S dissimilar,combo26,evaluator3
+26,Assessor_04,1,A-P similar; A-S dissimilar,combo26,evaluator4
+26,Assessor_05,2,A-S similar; A-P dissimilar,combo26,evaluator5
+26,Assessor_06,1,A-P similar; A-S dissimilar,combo26,evaluator6
+26,Assessor_07,1,A-P similar; A-S dissimilar,combo26,evaluator7
+26,Assessor_08,3,Both similar,combo26,evaluator8
+26,Assessor_09,1,A-P similar; A-S dissimilar,combo26,evaluator9
+26,Assessor_10,1,A-P similar; A-S dissimilar,combo26,evaluator10
+26,Assessor_11,1,A-P similar; A-S dissimilar,combo26,evaluator11
+26,Assessor_12,1,A-P similar; A-S dissimilar,combo26,evaluator12
+26,Assessor_13,1,A-P similar; A-S dissimilar,combo26,evaluator13
+27,Assessor_01,1,A-P similar; A-S dissimilar,combo27,evaluator1
+27,Assessor_02,1,A-P similar; A-S dissimilar,combo27,evaluator2
+27,Assessor_03,2,A-S similar; A-P dissimilar,combo27,evaluator3
+27,Assessor_04,1,A-P similar; A-S dissimilar,combo27,evaluator4
+27,Assessor_05,1,A-P similar; A-S dissimilar,combo27,evaluator5
+27,Assessor_06,4,Both dissimilar,combo27,evaluator6
+27,Assessor_07,2,A-S similar; A-P dissimilar,combo27,evaluator7
+27,Assessor_08,1,A-P similar; A-S dissimilar,combo27,evaluator8
+27,Assessor_09,1,A-P similar; A-S dissimilar,combo27,evaluator9
+27,Assessor_10,1,A-P similar; A-S dissimilar,combo27,evaluator10
+27,Assessor_11,2,A-S similar; A-P dissimilar,combo27,evaluator11
+27,Assessor_12,4,Both dissimilar,combo27,evaluator12
+27,Assessor_13,1,A-P similar; A-S dissimilar,combo27,evaluator13
+28,Assessor_01,1,A-P similar; A-S dissimilar,combo28,evaluator1
+28,Assessor_02,1,A-P similar; A-S dissimilar,combo28,evaluator2
+28,Assessor_03,1,A-P similar; A-S dissimilar,combo28,evaluator3
+28,Assessor_04,2,A-S similar; A-P dissimilar,combo28,evaluator4
+28,Assessor_05,1,A-P similar; A-S dissimilar,combo28,evaluator5
+28,Assessor_06,1,A-P similar; A-S dissimilar,combo28,evaluator6
+28,Assessor_07,1,A-P similar; A-S dissimilar,combo28,evaluator7
+28,Assessor_08,1,A-P similar; A-S dissimilar,combo28,evaluator8
+28,Assessor_09,1,A-P similar; A-S dissimilar,combo28,evaluator9
+28,Assessor_10,1,A-P similar; A-S dissimilar,combo28,evaluator10
+28,Assessor_11,1,A-P similar; A-S dissimilar,combo28,evaluator11
+28,Assessor_12,1,A-P similar; A-S dissimilar,combo28,evaluator12
+28,Assessor_13,1,A-P similar; A-S dissimilar,combo28,evaluator13
+29,Assessor_01,1,A-P similar; A-S dissimilar,combo29,evaluator1
+29,Assessor_02,1,A-P similar; A-S dissimilar,combo29,evaluator2
+29,Assessor_03,1,A-P similar; A-S dissimilar,combo29,evaluator3
+29,Assessor_04,1,A-P similar; A-S dissimilar,combo29,evaluator4
+29,Assessor_05,1,A-P similar; A-S dissimilar,combo29,evaluator5
+29,Assessor_06,1,A-P similar; A-S dissimilar,combo29,evaluator6
+29,Assessor_07,1,A-P similar; A-S dissimilar,combo29,evaluator7
+29,Assessor_08,1,A-P similar; A-S dissimilar,combo29,evaluator8
+29,Assessor_09,2,A-S similar; A-P dissimilar,combo29,evaluator9
+29,Assessor_10,1,A-P similar; A-S dissimilar,combo29,evaluator10
+29,Assessor_11,1,A-P similar; A-S dissimilar,combo29,evaluator11
+29,Assessor_12,1,A-P similar; A-S dissimilar,combo29,evaluator12
+29,Assessor_13,1,A-P similar; A-S dissimilar,combo29,evaluator13
+30,Assessor_01,1,A-P similar; A-S dissimilar,combo30,evaluator1
+30,Assessor_02,2,A-S similar; A-P dissimilar,combo30,evaluator2
+30,Assessor_03,1,A-P similar; A-S dissimilar,combo30,evaluator3
+30,Assessor_04,4,Both dissimilar,combo30,evaluator4
+30,Assessor_05,1,A-P similar; A-S dissimilar,combo30,evaluator5
+30,Assessor_06,1,A-P similar; A-S dissimilar,combo30,evaluator6
+30,Assessor_07,1,A-P similar; A-S dissimilar,combo30,evaluator7
+30,Assessor_08,2,A-S similar; A-P dissimilar,combo30,evaluator8
+30,Assessor_09,1,A-P similar; A-S dissimilar,combo30,evaluator9
+30,Assessor_10,1,A-P similar; A-S dissimilar,combo30,evaluator10
+30,Assessor_11,1,A-P similar; A-S dissimilar,combo30,evaluator11
+30,Assessor_12,2,A-S similar; A-P dissimilar,combo30,evaluator12
+30,Assessor_13,1,A-P similar; A-S dissimilar,combo30,evaluator13
