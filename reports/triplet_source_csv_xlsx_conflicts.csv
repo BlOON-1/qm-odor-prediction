@@ -1,0 +1,12 @@
+Source_Table,Source_Row_1based,Source_Column_1based,CSV_Value,XLSX_Value
+triplet_definitions,3,27,,#VALUE!
+sensory_responses,6,2,1,2
+sensory_responses,14,13,1,2
+sensory_responses,16,13,1,2
+sensory_responses,19,10,1,2
+sensory_responses,20,14,1,2
+sensory_responses,23,14,1,2
+sensory_responses,28,3,1,2
+sensory_responses,28,11,1,2
+sensory_responses,28,12,2,1
+sensory_responses,30,7,1,2

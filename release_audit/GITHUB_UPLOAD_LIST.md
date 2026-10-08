@@ -1,0 +1,173 @@
+# GitHub upload list
+
+## Direct-upload candidates (PASS and no detected release-policy issue)
+
+## G. docking/PLIP
+
+- `data/docking/metadata/representative_pose_index.tsv` — G. docking/PLIP; CSV parser (utf-8-sig)
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/106-25-2/OR1D2/OR1D2_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/111-27-3/OR2W1/OR2W1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/124-19-6/OR1A1/OR1A1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/141-12-8/OR1D2/OR1D2_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/18127-01-0/OR1D2/OR1D2_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/20602-31-7/OR2W1/OR2W1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/63767-86-2/OR1A1/OR1A1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/66-25-1/OR1A1/OR1A1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_0/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_0/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_0/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_0/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_1/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_1/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_1/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_1/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_2/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_2/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_2/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_2/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_3/cluster_002_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_3/cluster_003_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_3/dominant_cluster_medoid_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+- `data/docking/representative_complexes/71-41-0/OR2W1/OR2W1_P_3/global_lowest_energy_complex.pdb` — G. docking/PLIP; PDB atom-coordinate parser
+## D. structural-neighbor sensory panel
+
+- `data/external_panel/external_molecules_87.csv` — D. structural-neighbor sensory panel; CSV parser (utf-8-sig)
+- `data/external_panel/pairwise_panel_jaccard_similarity.csv` — D. structural-neighbor sensory panel; CSV parser (utf-8-sig)
+- `data/external_panel/panel_label_vocabulary_43.csv` — D. structural-neighbor sensory panel; CSV parser (utf-8-sig)
+- `data/external_panel/structural_neighbor_pairs_60.csv` — D. structural-neighbor sensory panel; CSV parser (utf-8-sig)
+## A/B. benchmark and descriptors
+
+- `data/processed/benchmark_molecules_4495.csv` — A/B. benchmark and descriptors; CSV parser (utf-8-sig)
+- `data/processed/ecfp4_fingerprint_index.csv` — A/B. benchmark and descriptors; CSV parser (utf-8-sig)
+- `data/processed/ecfp4_fingerprint_metadata.json` — A/B. benchmark and descriptors; json parser
+- `data/processed/ecfp4_fingerprints.npz` — A/B. benchmark and descriptors; numpy.load allow_pickle=False
+- `data/processed/odor_label_matrix_4495x112.csv` — A/B. benchmark and descriptors; CSV parser (utf-8-sig)
+- `data/processed/odor_label_vocabulary_112.csv` — A/B. benchmark and descriptors; CSV parser (utf-8-sig)
+## E/F. triplets and intensity
+
+- `data/sensory_triplets/triplet_assessor_responses_390.csv` — E/F. triplets and intensity; CSV parser (utf-8-sig)
+- `data/sensory_triplets/triplet_definitions_30.csv` — E/F. triplets and intensity; CSV parser (utf-8-sig)
+- `data/sensory_triplets/triplet_response_summary.csv` — E/F. triplets and intensity; CSV parser (utf-8-sig)
+
+## Do not mix into direct upload
+
+All UNVERIFIED, FAIL and NOT_FOR_RELEASE files in `FILE_INTEGRITY_MANIFEST.csv` require the disposition in `FILES_TO_FIX_OR_EXCLUDE.md`. Release permission for third-party sources remains a separate legal check.
