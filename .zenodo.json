@@ -1,0 +1,37 @@
+{
+  "title": "qm-odor-prediction: quantum-mechanical descriptor-enhanced molecular representations for odor prediction",
+  "upload_type": "software",
+  "description": "Code, environment specifications, and processed-data documentation accompanying a manuscript on quantum-mechanical descriptor-enhanced molecular representations for multi-label odor prediction, structural-neighborhood analysis, external sensory-panel validation, and orthogonal consistency analysis against public receptor-response annotations. The manuscript-aligned release contains 4,495 benchmark molecules, 112 standardized odor labels used for modeling, 87 external molecules arranged into 60 structurally similar pairs, and a 43-label sensory vocabulary.",
+  "creators": [
+    {
+      "name": "Ye, Qihao",
+      "affiliation": "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+    },
+    {
+      "name": "Zhou, Sijin",
+      "affiliation": "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+    },
+    {
+      "name": "Guo, Hui",
+      "affiliation": "Faculty of Flavour Fragrance and Cosmetics, Shanghai Institute of Technology, Shanghai, China"
+    },
+    {
+      "name": "Hu, Jing",
+      "affiliation": "School of Chemical Engineering, East China University of Science and Technology, Shanghai, China"
+    }
+  ],
+  "keywords": [
+    "odor prediction",
+    "quantum-mechanical descriptors",
+    "molecular representation",
+    "multi-label classification",
+    "olfactory receptors",
+    "structural neighborhoods",
+    "RDKit",
+    "graph neural networks"
+  ],
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "related_identifiers": [],
+  "notes": "This repository accompanies a manuscript and distributes code together with processed and derived materials for non-commercial research and educational use. Third-party redistribution restrictions, manuscript-aligned target counts, and current snapshot boundaries are documented in docs/data_availability.md."
+}

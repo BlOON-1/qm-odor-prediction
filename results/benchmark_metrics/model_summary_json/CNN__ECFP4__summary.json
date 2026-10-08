@@ -1,7 +1,6 @@
 {
   "config": {
     "data_file": "data/processed/ECFP4_data.csv",
-    "output_dir": "/home/gengzi/YQH/ESRS/CNN_ECFP4/outputs",
     "batch_size": 64,
     "learning_rate": 0.001,
     "num_epochs": 300,
