@@ -1,0 +1,4 @@
+stage,job_id,dependency,script_name,submission_time
+docking,469924,NONE,run_autodock4_batch_pipeline_64core.sh,2026-08-07T12:01:58+08:00
+post_analysis,469925,afterany:469924,run_post_analysis.sh,2026-08-07T12:01:58+08:00
+final_report,469926,afterany:469925,run_final_report.sh,2026-08-07T12:01:58+08:00

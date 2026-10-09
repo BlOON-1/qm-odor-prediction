@@ -1,0 +1,13 @@
+cas,receptor,pocket,kind,role,pose_id,interaction_type,residue_name,residue_number,residue_chain,ligand_residue,distance_A
+18127-01-0,OR1D2,OR1D2_P_0,all_pose,pose_0057,pose_0057,pi_cation,LYS,294,A,LIG,4.43
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0007,pose_0007,pi_cation,ARG,25,A,LIG,5.82
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0010,pose_0010,pi_cation,ARG,25,A,LIG,5.96
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0038,pose_0038,pi_cation,ARG,25,A,LIG,5.84
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0043,pose_0043,pi_cation,ARG,25,A,LIG,5.89
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0044,pose_0044,pi_cation,ARG,25,A,LIG,5.97
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0057,pose_0057,pi_cation,ARG,25,A,LIG,5.70
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0064,pose_0064,pi_cation,ARG,25,A,LIG,5.85
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0090,pose_0090,pi_cation,ARG,25,A,LIG,5.95
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0094,pose_0094,pi_cation,ARG,25,A,LIG,5.80
+18127-01-0,OR1D2,OR1D2_P_2,all_pose,pose_0098,pose_0098,pi_cation,ARG,25,A,LIG,5.85
+18127-01-0,OR1D2,OR1D2_P_2,representative,cluster_002_medoid,pose_0007,pi_cation,ARG,25,A,LIG,5.82

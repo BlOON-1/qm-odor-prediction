@@ -1,0 +1,12 @@
+component,status,version_or_message
+python,OK,"| python.version=3.9.12 | packaged by conda-forge | (main, Mar 24 2022, 23:22:55)  [GCC 10.3.0] | platform.python_version=3.9.12 | major_minor=3.9"
+obabel_cli,OK,| Open Babel 3.1.0 -- Jun 13 2022 -- 01:38:59
+numpy,OK,version=1.25.2
+scipy.cluster.hierarchy,OK,version=UNKNOWN
+scipy.spatial.distance,OK,version=UNKNOWN
+rdkit,OK,version=2022.09.5
+rdkit.Chem,OK,version=UNKNOWN
+rdkit.Chem.rdchem,OK,version=UNKNOWN
+rdkit.Geometry,OK,version=UNKNOWN
+plip_cli,OK,
+plip_python,OK,
