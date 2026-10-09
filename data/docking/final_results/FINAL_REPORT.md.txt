@@ -1,0 +1,96 @@
+# FINAL REPORT — AutoDock4 High-Precision Batch Pipeline
+
+## 1. Run information
+
+- Pipeline ID: `20260807_120156`
+- Generated: 2026-08-07T12:03:38.559957+08:00
+- Pipeline execution outcome: **ALL_SUCCESS**
+- Overall quality status: **PASS**
+- Dock result directory: `external source archive (not distributed)/docking/part_2/_autodock4_batch/runs/20260807_120156`
+
+## 2. Software and input scope
+
+- Configured CAS–receptor–pocket combinations: **36**
+- CAS count: **9**; receptor count: **3**; pocket count: **12**
+- Exact versions are recorded in `software_versions.tsv`.
+
+## 3. Docking parameters and CPU allocation
+
+- AutoDock workers: **64**; post-analysis CPUs: **32**; PLIP worker cap: **16**.
+- LGA runs/pocket: **100**; evaluations/run: **10000000**; generations/run: **50000**; population: **300**; RMSTOL: **2.0 Å**.
+
+## 4. Completion and energy statistics
+
+- Validated extracted poses: **3600** across **36** groups.
+- Per-pocket 100-search completion and energy distributions are in `energy_summary.tsv` and `quality_control.tsv`.
+
+## 5. Global pose clustering
+
+- Primary cutoff: **2.0 Å**, fixed receptor coordinate frame, average linkage.
+- Dominant clusters summarized: **36**. Sensitivity rows (1.5/2.0/2.5 Å): **108**.
+- Lowest-energy and dominant-cluster medoid identity is traceable via `representatives.tsv` and `pose_cluster_assignments.tsv`.
+
+## 6. PLIP interactions
+
+- Successful/reused PLIP analyses: **3743/3743**.
+- Frequencies use the actual successful all-pose PLIP count as denominator, never an assumed 100.
+- High-frequency residue rows reported: **20** (top rows shown below).
+
+- 106-25-2 / OR1D2 / OR1D2_P_1: hydrophobic_contact APHE207 — frequency 1.000000 (denominator 100).
+- 141-12-8 / OR1D2 / OR1D2_P_1: hydrophobic_contact APHE207 — frequency 1.000000 (denominator 100).
+- 18127-01-0 / OR1D2 / OR1D2_P_1: hydrophobic_contact APHE207 — frequency 1.000000 (denominator 100).
+- 18127-01-0 / OR1D2 / OR1D2_P_1: hydrophobic_contact ATYR259 — frequency 1.000000 (denominator 100).
+- 106-25-2 / OR1D2 / OR1D2_P_1: hydrophobic_contact ATYR259 — frequency 0.990000 (denominator 100).
+- 141-12-8 / OR1D2 / OR1D2_P_3: hydrophobic_contact APHE213 — frequency 0.990000 (denominator 100).
+- 18127-01-0 / OR1D2 / OR1D2_P_3: hydrophobic_contact ATYR120 — frequency 0.990000 (denominator 100).
+- 106-25-2 / OR1D2 / OR1D2_P_3: hydrophobic_contact ATYR120 — frequency 0.980000 (denominator 100).
+- 106-25-2 / OR1D2 / OR1D2_P_3: hydrophobic_contact APHE213 — frequency 0.980000 (denominator 100).
+- 141-12-8 / OR1D2 / OR1D2_P_1: hydrophobic_contact ATYR259 — frequency 0.980000 (denominator 100).
+
+PLIP salt bridges, AutoDock4 electrostatic score components, and simple charged-residue proximity are distinct concepts; this workflow does not relabel proximity as an electrostatic interaction.
+
+## 7. Cross-ligand comparison discovery
+
+- Receptor names discovered: **3**.
+- Single-CAS receptor groups: **0**.
+- Receptor groups with two or more CAS directories: **3**.
+- Comparison-eligible receptor groups: **3**.
+- Theoretical unique CAS pairs: **9**.
+- Actual common-pocket eligibility rows: **36**.
+- Skipped records: **0**.
+- Complete comparisons: **36**; partial-data comparisons: **0**.
+- Skip reasons: none.
+
+| Receptor | CAS count | CAS list | Ligand pairs | Common pockets | Successful | Skipped |
+|---|---:|---|---:|---:|---:|---:|
+| OR1A1 | 3 | 124-19-6;63767-86-2;66-25-1 | 3 | 12 | 12 | 0 |
+| OR1D2 | 3 | 106-25-2;141-12-8;18127-01-0 | 3 | 12 | 12 | 0 |
+| OR2W1 | 3 | 111-27-3;20602-31-7;71-41-0 | 3 | 12 | 12 | 0 |
+
+
+## 8. Cross-ligand binding-mode comparison
+
+- Completed/partial comparison rows: **36**.
+- Metrics use centroid separation, principal-axis angle, residue overlap, interaction fingerprints, energy distributions, and dominant-cluster fractions—not ordinary cross-ligand all-atom RMSD.
+
+- Spatial-region labels are descriptive workflow classifications using parameters centroid <= 5.0 A, residue Jaccard >= 0.3, and fingerprint similarity >= 0.3; they are not universal biological laws.
+
+## 9. Optional QM boundary
+
+- `QM_ANALYSIS_STATUS=NOT_PROVIDED`
+- Missing QM inputs do not fail docking. No QM descriptors are invented from molecular structures.
+
+## 10. Failures, warnings, and QC
+
+- Recorded failure/warning records: **0**.
+- See `PIPELINE_STATUS.tsv`, `quality_control.tsv`, and `all_failures.tsv`; an upstream critical failure prevents an all-success conclusion.
+
+## 11. Scientific interpretation boundaries
+
+1. AutoDock4 scores are model predictions, not experimental binding free energies.
+2. Molecular docking cannot prove receptor activation.
+3. A single lowest-energy pose does not establish the true binding mode.
+4. Dominant clusters and frequent interactions assess search reproducibility.
+5. Different ligands are not compared using ordinary all-atom RMSD.
+6. Docking supplies receptor-level structural-support evidence only.
+7. This workflow alone cannot establish that QM features cause odor differences.

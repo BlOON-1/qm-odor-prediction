@@ -1,0 +1,2 @@
+status,receptor_group_count,eligible_pocket_comparison_count,message
+SUCCESS_ELIGIBLE_PAIRS,3,36,Eligibility discovery completed without modifying docking inputs

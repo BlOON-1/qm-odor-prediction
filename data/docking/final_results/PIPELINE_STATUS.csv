@@ -1,0 +1,14 @@
+stage,status,exit_code,message
+clustering,SUCCESS,0,clustering completed with status SUCCESS
+comparison,SUCCESS,0,comparison completed with status SUCCESS
+complexes,SUCCESS,0,complex_building completed with status SUCCESS
+docking,SUCCESS,0,Docking stage completed
+extraction,SUCCESS,0,pose_extraction completed with status SUCCESS
+plip,SUCCESS,0,plip_parse completed with status SUCCESS
+post_analysis,SUCCESS,0,Post-analysis completed
+preflight,SUCCESS,0,All preflight checks passed
+receptor_index,SUCCESS,0,receptor_index completed with status SUCCESS
+validation,PASS,0,validation completed with status PASS
+report,PASS,0,final report artifacts were generated; pipeline outcome is recorded separately
+PIPELINE_OUTCOME,ALL_SUCCESS,0,"distinguishes docking failure, post-analysis failure, complete success, and missing status"
+OVERALL,PASS,0,"derived from stage status, QC, and failure tables"

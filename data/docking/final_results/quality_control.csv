@@ -1,0 +1,51 @@
+check,cas,receptor,pocket,status,observed,expected,message
+EXPECTED_100_POSES,106-25-2,OR1D2,OR1D2_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,106-25-2,OR1D2,OR1D2_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,106-25-2,OR1D2,OR1D2_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,106-25-2,OR1D2,OR1D2_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,111-27-3,OR2W1,OR2W1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,111-27-3,OR2W1,OR2W1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,111-27-3,OR2W1,OR2W1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,111-27-3,OR2W1,OR2W1_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,124-19-6,OR1A1,OR1A1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,124-19-6,OR1A1,OR1A1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,124-19-6,OR1A1,OR1A1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,124-19-6,OR1A1,OR1A1_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,141-12-8,OR1D2,OR1D2_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,141-12-8,OR1D2,OR1D2_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,141-12-8,OR1D2,OR1D2_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,141-12-8,OR1D2,OR1D2_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,18127-01-0,OR1D2,OR1D2_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,18127-01-0,OR1D2,OR1D2_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,18127-01-0,OR1D2,OR1D2_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,18127-01-0,OR1D2,OR1D2_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,20602-31-7,OR2W1,OR2W1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,20602-31-7,OR2W1,OR2W1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,20602-31-7,OR2W1,OR2W1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,20602-31-7,OR2W1,OR2W1_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,63767-86-2,OR1A1,OR1A1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,63767-86-2,OR1A1,OR1A1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,63767-86-2,OR1A1,OR1A1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,63767-86-2,OR1A1,OR1A1_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,66-25-1,OR1A1,OR1A1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,66-25-1,OR1A1,OR1A1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,66-25-1,OR1A1,OR1A1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,66-25-1,OR1A1,OR1A1_P_3,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,71-41-0,OR2W1,OR2W1_P_0,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,71-41-0,OR2W1,OR2W1_P_1,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,71-41-0,OR2W1,OR2W1_P_2,PASS,100,100,validated extracted poses
+EXPECTED_100_POSES,71-41-0,OR2W1,OR2W1_P_3,PASS,100,100,validated extracted poses
+ALL_DOCKING_SHARDS,,,,PASS,0,0,failed or unrecognized shard statuses
+ATOM_MAPPING,,,,PASS,0,0,failed complex builds
+GLOBAL_CLUSTERING,,,,PASS,143,>0,representative rows
+REPRESENTATIVE_PLIP,,,,PASS,0,0,failed/missing representative PLIP analyses; geometry and energy comparisons remain valid
+RECEPTOR_MD5_CONSISTENCY,,,,PASS,0,0,CAS/receptor groups with differing complete-receptor copies
+CASE_INSENSITIVE_AUDIT,,,,PASS,0,AUDITED,automatic case-insensitive resolutions retained
+receptor_groups_total,,,,PASS,3,>=0,casefolded receptor groups discovered
+single_ligand_receptor_groups,,,,PASS,0,>=0,single-CAS groups are valid and not comparable
+multi_ligand_receptor_groups,,,,PASS,3,>=0,zero multi-ligand groups is not an error
+eligible_ligand_pairs,,,,PASS,9,>=0,unique eligible cross-CAS pairs
+eligible_pocket_comparisons,,,,PASS,36,>=0,eligible pocket comparisons; 0 unaccounted and 0 exceptions
+successful_binding_mode_comparisons,,,,PASS,36,36,complete comparisons; partial and documented missing-cluster skips are accounted separately
+partial_binding_mode_comparisons,,,,PASS,0,0,partial comparisons retain geometry/energy when interaction data are missing
+skipped_binding_mode_comparisons,,,,PASS,0,0,0 structural/grid skips; 0 missing-cluster skips; single-ligand/no-common-pocket skips are valid

@@ -1,0 +1,4 @@
+canonical_receptor_key,display_receptor_name,unique_cas_count,cas_list,pocket_indices,theoretical_ligand_pair_count,comparison_eligible,status,message
+or1a1,OR1A1,3,124-19-6;63767-86-2;66-25-1,0;1;2;3,3,1,ELIGIBLE,3 unique ligands share at least one eligible receptor pocket
+or1d2,OR1D2,3,106-25-2;141-12-8;18127-01-0,0;1;2;3,3,1,ELIGIBLE,3 unique ligands share at least one eligible receptor pocket
+or2w1,OR2W1,3,111-27-3;20602-31-7;71-41-0,0;1;2;3,3,1,ELIGIBLE,3 unique ligands share at least one eligible receptor pocket
